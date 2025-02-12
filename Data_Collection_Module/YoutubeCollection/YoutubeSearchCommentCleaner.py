@@ -19,7 +19,7 @@ def is_meaningful_comment(comment):
     
     return any(word in comment.lower() for word in keywords)
 
-def clean_youtube_comments(input_csv="youtube_comments.csv", output_csv="cleaned_youtube_comments.csv"):
+def clean_youtube_comments(input_csv="Data_Collection_Module/YoutubeCollection/" + "youtube_comments.csv", output_csv="Data_Collection_Module/YoutubeCollection/" + "cleaned_youtube_comments.csv"):
     """Cleans YouTube comments and saves filtered results to a new CSV."""
     df = pd.read_csv(input_csv)
     df["cleaned_comment"] = df["comment"].apply(clean_text)

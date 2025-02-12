@@ -68,5 +68,5 @@ for video in videos:
 
 # Save to CSV
 df_transcripts = pd.DataFrame(video_transcripts)
-df_transcripts.to_csv("youtube_transcripts.csv", index=False)
+df_transcripts.to_csv("Data_Collection_Module/YoutubeCollection/" + "youtube_transcripts.csv", index=False)
 print("YouTube transcripts saved successfully.")
