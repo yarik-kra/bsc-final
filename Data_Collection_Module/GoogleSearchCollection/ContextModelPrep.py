@@ -11,8 +11,8 @@ nlp = spacy.load("en_core_web_sm")  # SpaCy for sentence segmentation
 tokenizer = DebertaTokenizer.from_pretrained("microsoft/deberta-large")
 
 # Define the directory containing site text files
-DATA_DIR = os.path.join(os.path.dirname(__file__), "sentiment_ready_texts")
-OUTPUT_FILE = "processed_dataset.json"
+DATA_DIR = "Data_Collection_Module/GoogleSearchCollection/" + "sentiment_ready_texts"
+OUTPUT_FILE = "Data_Collection_Module/GoogleSearchCollection/" + "processed_dataset.json"
 
 # Patterns to remove unwanted system messages
 REMOVE_PATTERNS = [
@@ -70,7 +70,7 @@ def process_text_files():
 dataset = process_text_files()
 
 # Save as JSON for later use in training
-with open("GoogleSearchCollection/" + OUTPUT_FILE, "w", encoding="utf-8") as f:
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(dataset, f, indent=4)
 
 print(f"✅ Processed dataset saved to {OUTPUT_FILE} with {len(dataset)} entries.")

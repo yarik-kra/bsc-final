@@ -5,8 +5,8 @@ import spacy
 nlp = spacy.load("en_core_web_sm")
 
 # Input and output folders
-INPUT_FOLDER = "GoogleSearchCollection/" + "sentiment_ready_texts"
-OUTPUT_FOLDER = "GoogleSearchCollection/" + "nlp_processed_texts"
+INPUT_FOLDER = "Data_Collection_Module/GoogleSearchCollection/" + "sentiment_ready_texts"
+OUTPUT_FOLDER = "Data_Collection_Module/GoogleSearchCollection/" + "nlp_processed_texts"
 
 # Ensure output directory exists
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)

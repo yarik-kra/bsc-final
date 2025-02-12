@@ -4,8 +4,8 @@ import time
 import os
 
 # file containing discussion links
-INPUT_FILE = "GoogleSearchCollection/" + "google_discussion_links.txt"
-OUTPUT_FOLDER = "GoogleSearchCollection/" + "scraped_texts"
+INPUT_FILE = "Data_Collection_Module/GoogleSearchCollection/" + "google_discussion_links.txt"
+OUTPUT_FOLDER = "Data_Collection_Module/GoogleSearchCollection/" + "scraped_texts"
 
 # create output directory if it doesnt exist
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)

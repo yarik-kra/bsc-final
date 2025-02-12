@@ -133,10 +133,10 @@ for video in videos:
 
 # Save video details to CSV
 df_videos = pd.DataFrame(videos)
-df_videos.to_csv("youtube_product_reviews.csv", index=False)
+df_videos.to_csv("Data_Collection_Module/GoogleSearchCollection/" + "youtube_product_reviews.csv", index=False)
 print("YouTube video data saved successfully.")
 
 # Save comments to CSV
 df_comments = pd.DataFrame(all_comments)
-df_comments.to_csv("youtube_comments.csv", index=False)
+df_comments.to_csv("Data_Collection_Module/GoogleSearchCollection/" + "youtube_comments.csv", index=False)
 print("YouTube comments saved successfully.")

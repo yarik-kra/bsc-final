@@ -13,7 +13,7 @@ YOUTUBE_API_KEY = os.getenv("AIzaSyD3rGswjIk33bQKe-kNy8YnsG24HwDt028")
 youtube = build("youtube", "v3", developerKey="AIzaSyD3rGswjIk33bQKe-kNy8YnsG24HwDt028")
 
 def search_youtube_videos(query, max_results=15):
-    """Search for YouTube videos related to the query."""
+    """Search for YouTube videos based on a query."""
     try:
         request = youtube.search().list(
             q=query,
@@ -25,34 +25,26 @@ def search_youtube_videos(query, max_results=15):
         
         video_data = []
         for item in response.get("items", []):
-            video_id = item["id"]["videoId"]
-            title = item["snippet"]["title"]
-            channel_title = item["snippet"]["channelTitle"]
-            published_at = item["snippet"]["publishedAt"]
-
             video_data.append({
-                "video_id": video_id,
-                "title": title,
-                "channel": channel_title,
-                "published_at": published_at,
-                "video_url": f"https://www.youtube.com/watch?v={video_id}"
+                "video_id": item["id"]["videoId"],
+                "title": item["snippet"]["title"],
+                "channel": item["snippet"]["channelTitle"],
+                "published_at": item["snippet"]["publishedAt"],
+                "video_url": f"https://www.youtube.com/watch?v={item['id']['videoId']}"
             })
         
         return video_data
-    
     except Exception as e:
-        print(f"An error occurred while searching videos: {e}")
+        print(f"Error searching videos: {e}")
         return []
 
 def get_video_transcript(video_id):
-    """Fetch transcript for a given YouTube video."""
+    """Retrieve transcript for a YouTube video."""
     try:
         transcript = YouTubeTranscriptApi.get_transcript(video_id)
-        transcript_text = " ".join([entry["text"] for entry in transcript])  # Combine text into one string
-        return transcript_text
-    
+        return " ".join([entry["text"] for entry in transcript])
     except TranscriptsDisabled:
-        print(f"❌ No transcript available for video: {video_id}")
+        print(f"No transcript available for video: {video_id}")
         return None
     except Exception as e:
         print(f"Error fetching transcript for {video_id}: {e}")
@@ -72,9 +64,9 @@ for video in videos:
         video["transcript"] = transcript
         video_transcripts.append(video)
     
-    time.sleep(1)  # Prevent hitting API rate limits
+    time.sleep(1)  # Avoid API rate limits
 
-# Save transcripts to CSV
+# Save to CSV
 df_transcripts = pd.DataFrame(video_transcripts)
 df_transcripts.to_csv("youtube_transcripts.csv", index=False)
-print("✅ YouTube transcripts saved successfully.")
+print("YouTube transcripts saved successfully.")
