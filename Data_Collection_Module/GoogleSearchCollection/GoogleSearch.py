@@ -52,10 +52,10 @@ def fetch_google_discussion_links(product, max_pages=1):
             print(f"Request failed: {e}")
             break
 
-    with open("GoogleSearchCollection/" + "google_discussion_links.txt", "w", encoding="utf-8") as f:
+    with open("Data_Collection_Module/GoogleSearchCollection/" + "google_discussion_links.txt", "w", encoding="utf-8") as f:
         for link in all_links:
             f.write(link + "\n")
 
     print("Saved all links to 'google_discussion_links.txt'.")
 
-fetch_google_discussion_links("Airpods Pro 4", max_pages=1)
+fetch_google_discussion_links("Macbook Pro M4", max_pages=1)
