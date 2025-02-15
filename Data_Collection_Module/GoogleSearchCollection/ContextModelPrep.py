@@ -11,8 +11,8 @@ nlp = spacy.load("en_core_web_sm")
 tokenizer = DebertaTokenizer.from_pretrained("microsoft/deberta-large")
 
 # Define directory paths
-DATA_DIR = "Data_Collection_Module/GoogleSearchCollection/sentiment_ready_texts"
-OUTPUT_FILE = "Data_Collection_Module/GoogleSearchCollection/processed_dataset.json"
+DATA_DIR = "/Users/yarik/Documents/GitHub/bsc-final/Data_Collection_Module/GoogleSearchCollection/sentiment_ready_texts"
+OUTPUT_FILE = "/Users/yarik/Documents/GitHub/bsc-final/Data_Collection_Module/GoogleSearchCollection/processed_dataset.json"
 
 # Define cleaning patterns
 REMOVE_PATTERNS = [

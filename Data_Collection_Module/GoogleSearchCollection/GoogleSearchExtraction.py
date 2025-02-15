@@ -4,8 +4,8 @@ import time
 import os
 
 # file containing discussion links
-INPUT_FILE = "Data_Collection_Module/GoogleSearchCollection/" + "google_discussion_links.txt"
-OUTPUT_FOLDER = "Data_Collection_Module/GoogleSearchCollection/" + "scraped_texts"
+INPUT_FILE = "/Users/yarik/Documents/GitHub/bsc-final/Data_Collection_Module/GoogleSearchCollection/" + "google_discussion_links.txt"
+OUTPUT_FOLDER = "/Users/yarik/Documents/GitHub/bsc-final/Data_Collection_Module/GoogleSearchCollection/" + "scraped_texts"
 
 # create output directory if it doesnt exist
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
@@ -58,7 +58,5 @@ def scrape_links_from_file(input_file):
                 f.write(extracted_text)
 
             print(f"Saved cleaned text to {output_filename}")
-
-        time.sleep(2)  # prevent rate limiting
 
 scrape_links_from_file(INPUT_FILE)

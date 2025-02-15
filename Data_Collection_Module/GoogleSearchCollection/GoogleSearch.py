@@ -1,3 +1,4 @@
+import sys
 import requests
 import time
 
@@ -14,8 +15,7 @@ ALLOWED_SITES = [
     "www.tomsguide.com", "www.overclockers.co.uk", "www.rtings.com"
 ]
 
-# fetch discussion and review links
-def fetch_google_discussion_links(product, max_pages=1):
+def fetch_google_discussion_links(product, max_pages=2):
     print(f"Searching Google for '{product}' discussions and reviews...")
 
     base_url = "https://www.googleapis.com/customsearch/v1"
@@ -52,10 +52,16 @@ def fetch_google_discussion_links(product, max_pages=1):
             print(f"Request failed: {e}")
             break
 
-    with open("Data_Collection_Module/GoogleSearchCollection/" + "google_discussion_links.txt", "w", encoding="utf-8") as f:
+    with open("/Users/yarik/Documents/GitHub/bsc-final/Data_Collection_Module/GoogleSearchCollection/google_discussion_links.txt", "w", encoding="utf-8") as f:
         for link in all_links:
             f.write(link + "\n")
 
     print("Saved all links to 'google_discussion_links.txt'.")
 
-fetch_google_discussion_links("Macbook Pro M4", max_pages=1)
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Error: No product name provided.")
+        sys.exit(1)
+    
+    product_name = sys.argv[1]
+    fetch_google_discussion_links(product_name, max_pages=2)
