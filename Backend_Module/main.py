@@ -80,7 +80,7 @@ async def get_results():
         )
 
         return {
-            "product_name": product_name,  # Now correctly returning the stored product name
+            "product_name": product_name,
             "positive_percentage": positive_percentage,
             "negative_percentage": negative_percentage,
             "neutral_percentage": neutral_percentage,

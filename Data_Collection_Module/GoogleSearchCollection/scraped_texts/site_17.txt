@@ -1,0 +1,73 @@
+for $50/year with no ads, ability to filter front page stories, and private forums.
+You are using an out of date browser. It  may not display this or other websites correctly.
+The 12.9 iPad Pro's are a nightmare from a usability standpoint.
+It weighs like a brick (without the Magic Keyboard) so you can't put it in the palm of your hand and hold it one-handed and scribble with the pencil with the other hand. There's no table near you? Too bad.
+Neither of the Magic Keyboard or the Smart Folio can make the tablet stable on your lap.
+It's terrible för watching content because the aspect ratio is not optimised for watching films/tv. The image is compressed and you get huge aspect ratio boxes at top and bottom.
+Safari on the iPad is terrible compared to Chrome on desktop. Websites are buggy, sometimes you touch buttons or links and they don't respond because it's not optimised for Safari.
+You might think annotating with the pencil would be great on this big screen but think again. It's really fun to use the pencil and the animations are smooth and fun but that joy dissipates quickly when you need to browse the web. Oh no. Reality kicks in. You HAVE to have a laptop next to this device if you want to do anything else than using a pencil. Now you have two huge devices taking your workspace.
+Forget browsing the web on this device, typing to LLM's like ChatGPT, constantly looking up words online or searching the web in general. Text input is a nightmare without the Magic Keyboard. You get quickly tired of typing on that big ass on-screen-keyboard. A lot of the time when you have the pencil in your hand and touch input fields, the on screen keyboard doesn't pop up. It expects you to scribble in the text field to input text. Wait it gets better. The OS doesn't turn this off until you attach the Pencil back to the side of the iPad.
+I'm sorry, I can't for the life of me understand why people even buy this device. The only thing I can think of is professional drawing with the pencil and that's it. For watching content and browsing the web, a laptop is vastly more ergonomic. For annotating and taking notes, which is 1 of 2 things this device is mainly good at, you can get away with buying a much cheaper iPad.
+I am flabbergasted. I'd like to know how people who use and like this device get around these huge shortcomings of such an expensive device.
+I dont find it heavy but it certainly isn’t light, especially with the MK
+I find the MK is fine on my lap - I was surprised actually
+Text input without a keyboard, I agree. Unless you use your voice though, I can’t see how it can be solved, and cant possibly be seen as a negative as its inherent.
+I agree, but I wouldn’t want to change the aspect ratio as then it would be bad for normal use
+I annotate all the time, I really think it works well - I use a matt screen protector though, else its horrible to write on. Sets my teeth on edge.
+I do this all the time, but I use my forearm to support it underneath and hold it with my hand from the opposite side.
+The keyboard is heavy, but has to be by design to stay balanced, and I was able to eventually get used to it. It's a little more awkward on the lap, but not impossible, and I find my wrists on the wristpad space keep it stable anyways.
+I'm not watching many movies on mine, but I'd rather keep the aspect ratio it's at rather than deal with a wide tablet that is even more awkward to wield
+Never had issues with Firefox, maybe look into alternate options. Also look into alternate desktop browsers, don't use Chrome (or get one that's de-Googled)
+Text input is a nightmare without the Magic Keyboard. You get quickly tired of typing on that big ass on-screen-keyboard. A lot of the time when you have the pencil in your hand and touch input fields, the on screen keyboard doesn't pop up. It expects you to scribble in the text field to input text. Wait it gets better. The OS doesn't turn this off until you attach the Pencil back to the side of the iPad.
+The nature of touchscreens in general... it works when you're desperate, but otherwise this is exactly why I got my keyboard.
+What's funny is the 12.9" screen is actually a perfect size in landscape mode for a properly-sized keyboard, and if I make sure my hands are centered before typing, I can
+touchtype blindly on the screen just from the key spacing being just right
+If you're using the pencil, there is a button at the bottom that shows a one-handed keyboard. Otherwise you just have to attach the pencil and it goes out of "writing mode" and the fullscreen keyboard should pop up.
+I’ve had mine for a year. I bought it with the keyboard case and never use it without the case.
+It works for me because all I use my iPad for is content, social media, websites (like this), Reddit, lots of YT and lots of music playback. I also bake and cook a lot and follow recipes through on it.
+I have never missed having a laptop or mac whilst using this device but that’s because of how I personally use it.
+I did have to use my partners MacBook the other week for something and kept touching the screen to interact with something snd it frustrated me so much it wasn’t a touch screen! 😅
+Well I'm delighted with mine. For me it is the perfect laptop.
+It doesn't feel so big and heavy to me (although the Galaxy Tab S9+ is more comfortable). I don't find the keyboard uncomfortable or heavy. Most of the time I use it with the Magic Keyboard, but I also use it from time to time in "tablet" mode.
+I like that it has 5G connectivity, especially for train trips.
+I've never had any problems with Safari, I don't know what kind of websites you visit, but I haven't experienced that.
+For viewing content, the iPad has always been worse than an Android tablet, but for productivity, the screen on the iPad is much better, since you see more content.
+It's clear that the 12.9" iPad Pro is not for you, a MacBook Air/Pro is better for you.
+In my experience it has a serious personality disorder and identity crisis. A little too unwieldy to fully enjoy as a sofa tablet. Thus works best as a pseudo laptop with Magic Keyboard, but then I soon realised it was half a laptop with a crippled operating system and almost no IO. I've switched back to laptops. I need to upgrade but, inconceivably, Apple no longer sell one that I'd be happy buying
+I don’t struggle with it for size or weight - but I appreciate that is a personal experience.
+You get used to black bars for content, happens on most platforms. I have a 21x9 monitor and I love watching films in native resolution (yet I get black bars on my tv for threes films) but I also understand that would be a weird tablet ratio (and maybe even for tv too), 16x9 I think would be a strange ratio for website browsing.
+I agree Safari is not as good as a desktop version (and that is probably one of my biggest gripes about the iPad) but I have not suffered with links or buttons that are not optimised - link some and we can work out what is going on.
+As for on screen keyboard when using input fields - I just tested this with the ChatGPT app and it pops up every time I select the field (with pen in hand) so I wonder if you have changed a setting?
+I use mine as a central hub to my two Mac minis, one is an editing suit for Adobe products and the other is a server. My NAS and associated self hosted apps, and my several raspberry pis performing various functions.
+From the iPad I; ssh in, use jump desktop and use Tailscale to flit between devices when I need to. I also use the iPad and its unparalleled screen to edit photos independently or as an accessory to my editing machine.
+I take it everywhere to keep all that access whilst still having the ability to use generally excellent iOS/ipados apps to run my photography business.
+It’s better than a laptop for many things; it’s a lot nicer and much more professional to hand my clients a sample gallery with an iPad than to shove a MacBook in their face. It’s easier and more friendly to take notes in my meetings with clients than a laptop, and cleaner than a pen and paper.
+In the situations where it’s not good enough to do a task, I use either a selfhosted docker application via a browser or I remote in to my other machines. For all other situations it’s null as I’m next to my other machines.
+For the most part though, the day to day needs of my computing requirements and the running of my life and business, the reading of material, web browsing and content creation and consumption are met with the iPad plus Magic Keyboard, and in a more modern, secure and stylish manner - from the couch.
+How depressing it is to find out my most used and most loved Apple product, my 12.9 M2 Pro, is so disappointing!
+I bought it to have a second screen for my Mac and to occasionally use for drawing in photoshop or illustrator. Other than that i’ve used it for reading, showing photos, or reading recipes off of while cooking. But yeah I paid $650 for mine and wouldn’t pay more than that for one. It’s my least used apple device.
+Using it for tablet stuff. More a window to the internet kind of thing. Reading, watching stuff. Don't have a keyboard cover because it doesn't turn it into a Macbook anyway.
+Thought it would feel too big but with a simple case without kickstands or the smart cover sandwich etc it becomes quite easy to hold in my opinion.
+Overpriced for that kind of stuff? You betcha. But they are available refurbed and used so that's the route I went.
+I’ll admit to confusion. Why post “x is no good for me” and then assume that makes it no good for
+? You’re wrong. Always. Whether your use case can be mitigated or is generally applicable… well you can assume that since Apple has been selling a 12.9” iPad for
+your beef is not a sufficient issue to most users of that product.
+Perhaps try again with a call for help from those who use the device to their contentment?
+I use mine all day, every day. Can’t wait to get the new one.
+Sorry was there a question in there somewhere? Need the community‘s experience or advice? Or in search of an echo chamber? Just asking for a friend.
+You HAVE to have a laptop next to this device if you want to do anything else than using a pencil.
+Text input is a nightmare without the Magic Keyboard. You get quickly tired of typing on that big ass on-screen-keyboard.
+There's a floating keyboard that even has swipe input, and it works fine.
+I would buy an ipad mini with 120hz, oled, slimmer bezzels, even if it was same price as ipad pro.
+I'm sorry, I can't for the life of me understand why people even buy this device.
+Sounds like someone was duped into thinking that iPad was a replacement for a Mac.
+One thing I’ve done more on my smaller iPad this year is watch YouTube (Premium) without expanding the video to full screen, and the iPad in portrait mode. I have it propped up against the duvet.
+I imagine the big iPad would do this even better given it must fill the whole top half of the iPad (remember, video not expanded to full screen).
+Yeah the portrait video on YT is bigger than landscape on the mini 6.
+Trying to pull off FaceID on a giant iPad while in bed is another thing though!
+What absolute nonsense. “Safari on iPad isn’t like Chrome on Desktop” - and this salad doesn’t taste as good as this soup. Obviously this device isn’t for you. Why are you wasting everyone else’s time?
+I have the 11” model and reckon the screen size is perfect to the point I wish Apple would bring back the 11” MacBook Air.
+My 12.9 iPad Pro is probably my most used device after my iPhone and my work desktop. For me it has proved the perfect compromise. I think it’s the 3rd one I’ve had now, and I will get another one when there’s a worthwhile upgrade. Having the external display support that came with the upgrade to M1 has added another dimension to its usefulness for me. I have a sim in it that’s not on the same network as my phone so increasing the chance of having signal in more places.
+On a couple of occasions I’ve tried switching to a MacBook, and always gone back to the iPad. For work I develop software for industrial applications and I do that on VMs (on esxi) so the iPad can access those as well as anything else.
+I’m not gonna deny it should probably be a bit cheaper (for the hardware in it) but for the use I’ve had out of mine is given me excellent value.
+This sidebar will go away, and you'll see fewer ads.

@@ -1,0 +1,76 @@
+you are using an out of date browser.
+it  may not display this or other websites correctly.
+we have been expecting m3 ipad pros for a while now
+but i was just browsing through some of the rumors and i noticed something interesting.
+there was information from a private x account with a proven track record that shared chip identifiers for the new wifi  cellular ipad pros and its apparently using a t8132 chip.
+in fact, based on the pattern that the m series chips have been following, it seems like its the m4 chip.
+but thats not all.
+a few days ago, 9to5mac found identifiers for the new wificellular ipad pros ipad16,3 ipad 16,4 ipad 16,5 ipad16,6
+m1 based products all start with 13.
+for example, the m1 ipad air is called ipad13,16.
+the 11 m1 ipad pro is ipad13,4, the m1 max mac studio is mac13,1 etc
+m2 based products are 14.
+m2 ultra mac studio is mac14,8 etc
+m3 based products are 15.
+m3 imac is mac15,5 etc
+but these new ipad identifiers have skipped 15 and went straight to 16.
+are we about to get an m4 ipad pro?
+i am now convinced ipads will come with m4, the pros at least
+also makes sense considering these ipad pros wont be updated for another 1.52 years and considering apple has to make the increase in price justifiable as well
+it would make sense to use the better components on the pro line for sure.
+interesting to see what the final product will be like.
+m4 is coming either in autumn or next year, ipad pro is coming in may, regardless of what these codes mean
+there is just no way a new flagship chip starts out in an ipad.
+i dont care if its the pro.
+its not happening before an imac of any variation or a laptop.
+it will be late 2025 if not 2026 before we see the m4 in an ipad pro.
+only thing i can see happening here is that the m3 in these ipad pros may be a revision of the same chip but being fabricated with a cheaper manufacturing process they may be using n3e instead of n3b
+it would make sense from a high end ipad perspective but m3 is barely 12 year old.
+it seems that timing is not correct if macs with m4 are supposed to ship end of the year.
+weren't there rumors of an n3e or possibly n3p i guess, if it saves design time variant coming for the a17 andor m3?
+that did happen before, iirc the m2 was out on the ipad before it was on the mbpimac?!
+but i do think this is to early for the m4 to be ready to be put inside an ipad.
+it would soften a lot of the waiting for the new ipad pro m4 11 with oled and horizontal facetime camera.
+the m2 debuted on the m2 macbook pro 13 and was shortly followed by the macbook air.
+the m2 ipp came in october.
+as long it's at least an m3 pro in the new ipad pro i'm happy
+actually, the m4s could have been manufactured since january, as tsmc is rumored to be using the n3e node since late december.
+i have hopes that during this next wwdc apple will unveil their new generation of m4 soc focused on ai, along with ios 18 and macos 15 you say the new ipad pro is coming in may?
+well, just delay it a bit more until june, and everything clicks.
+i know it wont happen, but damn i would love that.
+ipad really needs some love.
+guys, no words...iphone is first, always has been
+i mean the base future soc will always comes first in iphones then macsipads
+i mean m4 will come after iphones a18 pro which m4 will be based on
+honestly, they should worry less about putting more power into the ipad especially in the pro, and more about optimizing all that power it has.
+the main ballast that ipads have is their operating system.
+in the end it's like buying a ferrari, with a 600hp engine but limiting it by switchboard to 80mph and 90hp.
+put m3 or m4 chip with the current os, it will be very very underutilized.
+today, not even the m2 is made the most of on the ipad.
+im not entirely sure the m2 is overkill for the ipad.
+when i connect my 4k screen and have nebo.app and run a video pip on the ipad and have word, outlook, finder and safari open on the screen, it tends to get rather hot.
+certainly in the summer it often stops charging at 80 to prevent battery damage.
+so perhaps the m2 isnt that overpowered as many seem to think.
+and the m3 might have a little bit more overhead space and less heat, so my ipad can charge to 100 while being used.
+what happens is that what you indicate is done by a macbook air without getting disheved with very similar hardware.
+i don't think we can argue that the power which is a lot of an ipad pro m2 is wasted, mainly by the os, seeing what an almost identical processor and hardware is capable of doing.
+i'd be extremely surprised to see the m4 come out before q32024.
+and the ipad didn't benefit all that much from m1 or m2, and i don't really see any benefit from m3 let alone m4.
+the os will never make use of all that power.
+the logical roadmap is to release the m4 on a macos device first and foremost.
+that will benefit from a more powerful cpu, gpu and memory.
+the os does benefit from the power.
+i saw noticeable performance improvements in my render and export times from a12z to m1.
+you just don't use the apps where it has an impact.
+both before and after apple transitioned macs over to apple silicon with m1, apple has consistently been leading every new applemade soc generation with its bestselling and by far most important computerdevice, iphone.
+iphone 16 will be the first apple product make the jump to the next generation of soc which is named a18 for iphone and some ipads, maybe and m4 for mac and some ipads, probably.
+all of what apple has become and most of what it gains every year emanates from the continued success and of iphone.
+capital and most of the supply chain has to!
+first and foremost accommodate demand for the upcoming iphone.
+what next gen. macs and ipads launch when after the upcoming iphone has launched is partially determined by the success and demand of said iphone.
+in other words, if we see any mac or ipad releases before iphone 16 launches in september then they'll all be m3 at best ipad air will probably get m2.
+maybe 20 apps on the app store such as final cut will clearly benefit from this, but not the os per se.
+i rarely if ever see anything load with my a12z and do not feel the need to upgrade
+on the other hand, macos in its entirety will benefit from m4.
+i have an m2 pro, and would still be constantly looking for more and more power.
+this sidebar will go away, and you'll see fewer ads.

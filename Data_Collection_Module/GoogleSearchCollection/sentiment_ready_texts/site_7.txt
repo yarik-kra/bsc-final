@@ -1,0 +1,68 @@
+the new ipad pro is practically perfect.
+what could apple do to improve it?
+you are using an out of date browser.
+it  may not display this or other websites correctly.
+great screen, great speakers, fast, light, apple pencil pro is a game changer.
+i just dont know what they can do to make ipad any better?
+this will inevitably turn into a discussion about ipados with some users wanting a port of macos.
+i dont think anyone will argue ipads have bestinclass hardware, but everyone would benefit from software improvements.
+what constitutes an improvement?
+thats the million dollar question its different for everyone.
+i have two macbooks, and have no need for macos on my ipad.
+they are both superb devices, with their own advantages.
+i used to wish they could make the 13 lighter, but never thought they could.
+then they did.
+so i'll continue asking the impossible make it lighter yet.
+i don't need windowing on ipados.
+a tablet lends itself to fullscreen applications and focus work, like writing in a book or drawing on paper.
+swiping between apps has always been silly fast.
+i do want the files app to support more file formats, including opening dmg files and 7zip.
+the hardware is nearly perfect, aside from the oled pwm issues for us that suffer from it.
+i would still prefer it to be slightly thicker as the battery on ipads is no way near what it was on the first few ipads that came out.
+other than that, it's the software which needs improving.
+more options for tiling windows when not using stage manager would be nice.
+alongside true multitasking letting apps work in the background, it could make the ipad a really powerful productivity machine.
+i know mkb adds one for power, and there's always dongles, but another thunderbolt port could go a very long way for expandability.
+it's not like m chips can't support it, or like there's no space for another one.
+hardware wise, it is peak design.
+nothing else is really needed at this time.
+software wise, apple should improve.
+not majorly, but look for specific use cases and workflows that need attention.
+i still believe ipados is what it should be.
+it should not be a mirror of macos, nor should it be replaced by macos.
+but there are some interactions that still feel clunky due to the os's overall design.
+those are probably the most difficult things to improve, but would net the biggest benefit to users if they can be.
+titanium frame to match the iphone 15 pro, to give it a slightly more premium design to differentiate from the ipad air.
+ability to install mac apps ipad os needs to be more closer to mac os than ios.
+more robust files app.
+mkb usb c port should allow datavideo also not just charging.
+as cockney rebel said though, the m4 ipp is a fantastic device absolutely love it.
+allow the smart connector pass data through to enable a full usbc connector on the magic keyboard
+decrease the new radius on the screen corners to match the previous m1m2 ipad pros
+find a way to increase the speaker rangefidelity to match the older m1 ipad pros
+reintroduce 5g mmwave, as it was useful at times and really fast
+allow the files app to incorporate basic file editing text, image
+move up to a standard of 15 hour battery life for the ipad pro line
+fit it in the mini 15 size enclosure, that just squeezed into most back pants pockets  jacket pockets.
+all the uses i have for a full size tablet require a fullfeatured os.
+if it's going to have this mobile os, then i want it to be a mobile device.
+i'd take a mini 6 size too, but i absolutely agree with your take here.
+the new screens don't look as sharp as before oled
+they need to increase the resolution as they did on the iphone to match the previous 2012 levels of sharpness.
+oled's have that grainy effect if you look closely, which can be hidden by high enough resolution.
+pretty disappointed it wasnt added to the m4s.
+cant be too hard to do.
+maybe a dynamic island with bezels as slim as iphone.
+however, add a setting that brings back the current sized bezels as software for palm rejection.
+enable and disable that setting depending on if youre watching a video, gaming, drawing, etc
+i want 2 specific hardware and 2 specific software changes.
+for the hardware i want another usbc port and dual cameras for spatial video.
+with software i want native mac app support on ipados
+and i want them to make external display support feel like its not a beta feature.
+no new features, just refine and optimize whats already there.
+get rid of the homebar at the bottom of the screen display.
+this is an annoying, useless artifact.
+if we're touching on software multi user accounts is essential if i'm ever buying another ipad.
+i can't see any arguments from consumers against this simple change.
+a decent remote desktop client for ios to control macs at base
+this sidebar will go away, and you'll see fewer ads.
