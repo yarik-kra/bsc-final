@@ -1,20 +1,47 @@
-for $50/year with no ads, ability to filter front page stories, and private forums.
-general discussion (use iOS Apps and Apple Arcade forum for app discussions)
-You are using an out of date browser. It  may not display this or other websites correctly.
-Do/did you buy your iPad(s) with Cellular or Wi-Fi Only?
-An App Experiment: How much do I really need dedicated Apps with a "desktop-class" version of Safari
-Can i add the Bookmark icon to my toolbar in Safari
-Anyone having Wi-Fi connection issues with iPad mini 7?
-Downgraded M4 back to iPad Pro M1 - Much better for the eyes!
-M2 iPad Air is at the lowest price on Amazon - will it go lower with the M3 announcement?
-Looks like M4 iPad Pro is a bit of a flop on a relative basis (Apple earnings)
-Pilot choice for iPad using ForeFlight - Wifi + Cellular ?
-advice - music streaming for my 84 year old mother!
-Remote Control Mac from iPad - with right click and scroll wheel functional
-Someone invented a magnetic sheet to allow the older Magic Keyboard to work on the M4 iPad Pro models.
-iPad Mini 7 60 Hz Screen Refresh Rate Should Be Illegal
-PWM Confirmed - 2024 IPP - OLED - Keep those 2018 12.9 IPP’s 🤬
-iPad Pro background wallpaper moving around out of the blue! 😳
-Is the 13" iPad big enough to use like a laptop for photo work?
-13" M4 iPad Pro : Dead TrueDepth Sensor [Warranty Rejected]
-Just switched from iPad Air to iPad mini - how do I increase all font and icon sizes?
+M4 MacBook Pro — 5 reasons to buy and 2 reasons to skip | Tom's Guide
+I've been using the 14-inch MacBook Pro M4 for a few weeks, and based on my
+you can buy. I'm a big fan of the nano-texture display that obliterates glare, the super-long battery life and the speedy M4 chip with Apple Intelligence powers.
+However, there are some things I don't like about this system, especially for the starting $1,599 price ($1,949 as tested). Here's the reasons to buy — and skip — the new MacBook Pro M4.
+The idea of a glare-free laptop nothing new, but the MacBook Pro M4's screen isn't a simple matte panel. Apple uses
+, in which glass is etched at the nanometer level. The etching scatters incoming light while preserving contrast and color accuracy.
+showing off the difference between the MacBook Pro M4 with the nano-texture display and an older MacBook without it and the benefit is pretty obvious — I don’t think I’d be exaggerating to call it a revelation. And I did in my review.
+The nano-texture panel does an amazing job minimizing glare and reflections, and this is coming from someone who spends a lot of time working in my backyard and on the bus. Pair that with over 1,500 nits HDR brightness tested, and the MacBook Pro M4 display looks awesome even out in sunlight . The only drawback is that this feature costs $150 extra.
+The base M4 MacBook Pro is more than enough for most users, and you get more than $100 off right now. This option also benefits from that additional Thunderbolt port, a 12MP webcam, 16GB of RAM and a 512GB SSD.
+Apple promises up to 24 hours of battery life for the MacBook Pro M4, but that's for streaming video. Whenever we test a laptop we run our proprietary web-surfing battery test.
+The MacBook Pro M4 lasted an epic 18 hours and 31 minutes, which is an hour longer than the already great MacBook Pro M3 and
+Lunar lake. Only the Snapdragon X-powered Dell XPS 13 lasted longer.
+I recently had a power outage in my home that started at 9 a.m., with power not restored until close to 4 p.m. And the MacBook Pro M4 was still chugging along with about 29% battery life left in all that time.
+The biggest reason to upgrade to the MacBook Pro M4 is the performance. This machine gets the newest M4 chip that is based on a 3-nanometer process, promising the fastest CPU core and better multithreaded performance than M3. Based on our testing, the M4 blows a lot of the competition away but not on every test.
+Anecdotally, I've been running up to a dozen apps, editing photos, streaming, just really trying to stress the machine and it still runs smoothly. The 16GB of unified memory that’s now standard and the 1TB SSD in our unit definitely help — although I’ll talk about the drawbacks with the SSD in a little bit.
+features are powered by the M4. I’ve been running the developer beta of macOS 15.2, which includes ChatGPT support, but already-released features include the improved
+with the option to type to Siri, helpful Writing Tools, and Photos features like Clean Up. Image Playground, part of the iOS 18.2 beta, is also pretty fun to play with.
+Apple Intelligence beats Microsoft's Copilot in Windows 11
+Finally, we get support for dual external displays with this MacBook Pro. I say "finally" because this is one of those things that is definitely long overdue and has been on my wishlist for a while as a MacBook Pro user.
+A machine this powerful should have no trouble hooking up to two displays simultaneously while also having the laptop open, so you can have three displays in one. It helps that the base model now has three Thunderbolt 4 ports, compared to two previously, although if you want more bandwidth with Thunderbolt 5, you’ll need to step up to a M4 Pro model.
+Here's another welcome MacBook Pro M4 upgrade. It now features a 12MP Center Stage camera, up from the 1080p camera on the M3 MacBook Pro. I noticed a big difference in image quality when I took some selfies using the Photo Booth app, but you'll really appreciate the boost during for video calls.
+Center Stage support means that you’ll be kept centered in the frame even as you move around, which can come in handy when giving presentations. This is a feature that’s been available on iPads for a while, but I'm still glad to see it on Mac.
+A reason I’d skip the MacBook Pro M4 goes back to some of the benchmark tests I mentioned earlier. One negative surprise in our performance testing was the SSD speed. On the BlackMagic Disk Speed test, the new MacBook Pro was slightly slower than the previous-gen M3 model, which is strange. It’s read and write speeds were also behind the top Windows systems. So if you tend to transfer or save really large files, you might not be very happy.
+From my personal experience, while the MacBook Pro M4
+run big titles, the performance and speed just isn’t what you’d get compared to one of the
+. For example, Borderlands 3 ran at a paltry 23 fps, which is not quite playable.
+On the plus side, I did have a blast playing Resident Evil 4 and the graphics look awesome in a gruesome way. But if I were getting this MacBook Pro for gaming I’d step up to an M4 Pro or Max chip for more GPU cores.
+As someone who has been living with an aging MacBook Pro M1, the M4 MacBook Pro is an ideal upgrade for me. It’s noticeably faster, and you’ll be able to take better advantage of all the new Apple Intelligence features. I especially like the nano-texture display for a glare-free experience and the extra-long battery life.
+Still, I wish the SSD was faster, and for this kind of money I don’t think you should have to pay more for a beefier GPU to get silky smooth frame rates on the latest games. Overall, I gave the MacBook Pro M4 4.5 out of 5 stars in my full
+, and it’s an Editor’s Choice pick, but do you think it’s upgrade-worthy? Let us know in the comments and if there’s anything else you’d like us to go deeper on.
+Save up to $500 on these early Black Friday MacBook deals
+The ultimate MacBook hierarchy: M4 vs M3 vs M2 vs M1 tested and ranked
+Don't look now, but Macs are finally good for gaming
+Sign up to get the BEST of Tom's Guide direct to your inbox.
+Get instant access to breaking news, the hottest reviews, great deals and helpful tips.
+Contact me with news and offers from other Future brands
+Receive email from us on behalf of our trusted partners or sponsors
+Mark Spoonauer is the global editor in chief of Tom's Guide and has covered technology for over 20 years. In addition to overseeing the direction of Tom's Guide, Mark specializes in covering all things mobile, having reviewed dozens of smartphones and other gadgets. He has spoken at key industry events and appears regularly on TV to discuss the latest trends, including
+and other outlets. Mark was previously editor in chief of Laptop Mag, and his work has appeared in Wired, Popular Science and Inc. Follow him on Twitter at @mspoonauer.
+MacBook Air M4 tipped for imminent arrival — here's when it could launch
+Apple MacBook Air M4 and iPad Air upgrades could follow the iPhone SE 4
+How to watch 'Saturday Night Live 50th Anniversary Special' online — TV channel, live streams, special guests
+The Awara Natural Hybrid Mattress drops to just $664 for a queen in Black Friday-beating Amazon Presidents' Day sale
+Hot sleepers! Get 30% off this cooling mattress infused with copper in the Presidents' Day sales
+Reddit CEO outlines plan to roll out paid subreddits later this year
+Walmart is selling a queen size cooling mattress for under $98 this Presidents' Day, but is it worth buying?
+I'm a bed tester with back pain — 3 mattress topper deals I'd actually buy this Presidents' Day

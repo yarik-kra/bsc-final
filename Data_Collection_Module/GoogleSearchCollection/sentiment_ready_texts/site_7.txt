@@ -1,68 +1,56 @@
-the new ipad pro is practically perfect.
-what could apple do to improve it?
 you are using an out of date browser.
 it  may not display this or other websites correctly.
-great screen, great speakers, fast, light, apple pencil pro is a game changer.
-i just dont know what they can do to make ipad any better?
-this will inevitably turn into a discussion about ipados with some users wanting a port of macos.
-i dont think anyone will argue ipads have bestinclass hardware, but everyone would benefit from software improvements.
-what constitutes an improvement?
-thats the million dollar question its different for everyone.
-i have two macbooks, and have no need for macos on my ipad.
-they are both superb devices, with their own advantages.
-i used to wish they could make the 13 lighter, but never thought they could.
-then they did.
-so i'll continue asking the impossible make it lighter yet.
-i don't need windowing on ipados.
-a tablet lends itself to fullscreen applications and focus work, like writing in a book or drawing on paper.
-swiping between apps has always been silly fast.
-i do want the files app to support more file formats, including opening dmg files and 7zip.
-the hardware is nearly perfect, aside from the oled pwm issues for us that suffer from it.
-i would still prefer it to be slightly thicker as the battery on ipads is no way near what it was on the first few ipads that came out.
-other than that, it's the software which needs improving.
-more options for tiling windows when not using stage manager would be nice.
-alongside true multitasking letting apps work in the background, it could make the ipad a really powerful productivity machine.
-i know mkb adds one for power, and there's always dongles, but another thunderbolt port could go a very long way for expandability.
-it's not like m chips can't support it, or like there's no space for another one.
-hardware wise, it is peak design.
-nothing else is really needed at this time.
-software wise, apple should improve.
-not majorly, but look for specific use cases and workflows that need attention.
-i still believe ipados is what it should be.
-it should not be a mirror of macos, nor should it be replaced by macos.
-but there are some interactions that still feel clunky due to the os's overall design.
-those are probably the most difficult things to improve, but would net the biggest benefit to users if they can be.
-titanium frame to match the iphone 15 pro, to give it a slightly more premium design to differentiate from the ipad air.
-ability to install mac apps ipad os needs to be more closer to mac os than ios.
-more robust files app.
-mkb usb c port should allow datavideo also not just charging.
-as cockney rebel said though, the m4 ipp is a fantastic device absolutely love it.
-allow the smart connector pass data through to enable a full usbc connector on the magic keyboard
-decrease the new radius on the screen corners to match the previous m1m2 ipad pros
-find a way to increase the speaker rangefidelity to match the older m1 ipad pros
-reintroduce 5g mmwave, as it was useful at times and really fast
-allow the files app to incorporate basic file editing text, image
-move up to a standard of 15 hour battery life for the ipad pro line
-fit it in the mini 15 size enclosure, that just squeezed into most back pants pockets  jacket pockets.
-all the uses i have for a full size tablet require a fullfeatured os.
-if it's going to have this mobile os, then i want it to be a mobile device.
-i'd take a mini 6 size too, but i absolutely agree with your take here.
-the new screens don't look as sharp as before oled
-they need to increase the resolution as they did on the iphone to match the previous 2012 levels of sharpness.
-oled's have that grainy effect if you look closely, which can be hidden by high enough resolution.
-pretty disappointed it wasnt added to the m4s.
-cant be too hard to do.
-maybe a dynamic island with bezels as slim as iphone.
-however, add a setting that brings back the current sized bezels as software for palm rejection.
-enable and disable that setting depending on if youre watching a video, gaming, drawing, etc
-i want 2 specific hardware and 2 specific software changes.
-for the hardware i want another usbc port and dual cameras for spatial video.
-with software i want native mac app support on ipados
-and i want them to make external display support feel like its not a beta feature.
-no new features, just refine and optimize whats already there.
-get rid of the homebar at the bottom of the screen display.
-this is an annoying, useless artifact.
-if we're touching on software multi user accounts is essential if i'm ever buying another ipad.
-i can't see any arguments from consumers against this simple change.
-a decent remote desktop client for ios to control macs at base
+for the average user, is there much to gain by spending another 200 to get 8 gb more of memory?
+i realize that with today's laptops there isn't much hope of selfupgrade, so what you buy is what you get.  also considering 512 gb vs 1 tb of storage.
+this is more of a question of internal vs external storage.
+fans will overwhelming push base as plenty for everyone...
+even some 99 will be slung.
+fans always push what apple has for sale now.
+later, when there is a problem with sometimes very passionate advice like this, they'll basically blame you for buying too little back in 2024 and recommend buying a new mac as the remedy.
+that's great for apple and not so great for you... but crucial to considering such input they are fans of apple,
+the key to your question depends on how one interprets average.
+same with storage but not quite the same degree of consideration since you can lean on external storage if you need more later.
+the hassle in external storage with a laptop is just connectingdisconnecting and carrying the extra stuff everywhere you may need it.
+that may seem like a very small hassle, but it can be a practical hassle every time you want to use the laptop.
+again, try to anticipate maximum future storage needs on device.
+between the 2, prioritize ram.
+there is no adding it later.
+but if you can afford both and think you'll need both, save up and pay too much relatively for both... and then not worry about this stuff for life of device.
+some may chime in arguing for base ram because ssd swap can cover some spikes in ram demand.
+that's true.
+but too many writes wear out ssds and when the internal ssd conks, you
+to buy a new mac.
+so get enough ram to minimize swap use and you don't have to worry about this issue either.
+some fans will argue that swap should not be a concern because modern ssds can... but hop back to similar worries about the ssd part of fusion drives to see the same kind of don't worry about it posts and then search threads for problems with worn out ssds in fusion drives.
+again, fans pushrationalize whatever apple has for sale now.
+so anything you get from fans is very biased in support of the corps objectives.
+bottom line if you can wildly guessimagine a need for the added ram through about 2031, pay up for it.
+and the same for upgrading the ssd though if pinched you can deal with the added hassle of external storage if you opt to not get enough internal ssd to cover your own needs through about 2031.
+for discrete video cards, like the m4 gpu can perform similarly to  8 gb of vram isn't much.
+if you only have 16 gb, that only leaves 8 for the rest of the os if running anything reasonably gpu heavy.
+if you go 24, you have double the ram left for the cpu when running something needing 8 gb of vram.
+if you don't do anything gpu heavy 16 is probably fine.
+that said, consider your usage and look at the total cost of the system you're buying vs. the cost of the incremental upgrade and consider how it will impact system longevity.
+extra 8 gb of ram is a couple of hundred dollars on a machine worth 4 figures, and ram is a real limiting factor on system usefulness over time.
+i thought long and hard about it too because the price difference between the base model and the pro model here in canada is 600.
+i chose the pro model for a few reasons.
+ 50 more ram valuable when video or photo editing.
+ less fan noise compared to the base model.
+it's pretty significant.
+the fans don't spin up as much because there are two.
+i don't think the max chip is worth it.
+ive seen many reviews that said skip the max.
+it has very little gain over the pro model.
+the reality is that unused ram  wasted ram, so macos and other oses for that matter always attempt to utilize as much as they can by preloading or caching stuff.
+this mechanism has been standard for many years now.
+that's how you end up with way higher ram usage than you'd expect, and it's very misleading to think it reflects your requirements.
+the only thing you're potentially missing out on is milliseconds that could be saved here and there by the os being generous with ram overcommitting and having it e.g. cache some app you usually open, but it's closed right now  so the next startup takes .3 of a second instead of .5
+i don't think the max chip is worth it.
+ive seen many reviews that said skip the max.
+it has very little gain over the pro model
+it literally has approximately 2x the gpu power, 2x the encoders and higher available ram capacities.
+if you dont need those things sure.
+but saying there is little gain over the pro is just false.
+i've read reviews that said that the marginal performance jump wasn't worth it.
+going from the base model to the pro model you'll see a bigger increase.
 this sidebar will go away, and you'll see fewer ads.

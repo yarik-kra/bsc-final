@@ -1,46 +1,49 @@
-overclockers uk forums
 you are using an out of date browser.
 it  may not display this or other websites correctly.
-we are expecting some ipad pro's with oled screens with a new aluminium keyboard, a 12.9 ipad air and a new apple pencil.
-its a delight to use, but is it right for you?
-i was able to try one in london last week, and, as i wrote, i came away impressed with the hardware.
-it makes me wonder, more than ever, why there's a line between ipads and macs at all.
-pretty, i wish it were a macbook
-the ipad pro with m4 and oled is significantly more powerful and colorful than the previous generation.
-its also still just an ipad.
-                                                             
-i'm hoping for a new ipad air.
-my wife trusted our 2 year old with her 4th gen and rip screen.
-done.
-this is one of the reasons i dislike bst.
-just sayin'
-with the apple pencil in the logo, it's going to be all about ipads.
-i hope they open the event to 'footloose' by kenny loggins.
-this is just an entire event dedicated to their new ipad calculator app.
-wife has asked for one for her bday, 18th.
-hoping the new ones are out and delivered before then.
-otherwise im sure shell understand if its a few days late.
-otherwise im sure shell understand if its a few days late.
-18th is a big birthday.
-i am sure you could push the boat out after marrying young.
-new ipad pros that may have slightly bigger screens but with large spec bumps too
-updated ipad air including the introduction of a 12.9 ipad air
-new apple pencil 3 with various rumours surrounding find my and changeable tips
-new magic keyboard to make the whole thing look more like a macbook
-no mention of ipad mini and the one take away from the various videos i've watched is that there is a very real concern that the new ipad pros will have a large price like with the 13 inch coming in around or over 1500 and that may be why there will be a larger air to pacify people somewhat.
-seems to be quite a lot of suggestions that ai will feature heavily in conjunction with the new ios.
-it'd be typical if they redesigned the magic keyboard for macs too as i've just been out and bought one
-i would love to see a new ipad mini...i know, talk is not this time!
-remember you have 14 days to return it for a full refund.
-airpods max refresh would be good.
-not sure how likely it is though.
-according to the reliable sources the only update the max will be getting any time soon is a usb c port, not even a chip update to support adaptive transparency etc.
-youre forgetting the rumour of new colours!
-but not till 2025 so very unlikely for this event.
-would like to be wrong as i fancy a pair although ideally with all the features the airpods pro 2 have.
-i dont see what can really be offered around ipad unless there is some really out there new innovation we dont know about.
-otherwise a hard sell unless youre a serious creative.
-oh wow looks like my wallet will be a big hit the wife wants a new ipad pro after her old one broke.
-will be interesting to see how the design changes.
-this site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.
-by continuing to use this site, you are consenting to our use of cookies.
+as i threw benchmarks, games and encoding jobs at the mac mini, i was constantly impressed by how much it could tackle without making any discernible fan noise.
+but apple cant escape heat.
+the mac mini has a large intake fan along its bottom that sucks in cool air and spreads it out throughout the entire system.
+however, when i started running cinebench's multithreaded benchmark, the fan kicked into high gear and the mac mini sounded like it was getting ready to take off.
+it's not an unpleasant sound  it's more like a calming white noise machine than the obnoxiously loud mac fans of yore  but it's certainly noticeable.
+if you're typically wearing headphones or blasting music, it may not be an issue, but it could make the mac mini very annoying in a shared office setting.
+if you're planning to constantly throw heavy workloads at it in high power mode, you might be better off with the larger mac studio, which can better handle heat.
+my daughter just couldn't believe her eyes when i pulled the new mac mini out of its box.
+it measures just fiveinches by fiveinches across, and it sits a mere two inches tall.
+the mac mini is an adorable box that resembles an oversized apple tv.
+but what's more impressive...
+this kinda blows when you can almost never hear the fan on the older design, no matter how hard you push it
+this is for m4 pro and i can tell you the old m2 pro model is not as quite as the base m2 either.
+you have to make some compromise to put high performance chips into small form factors like this.
+despite the fact the m4 pro has a copper based cooling system, i suspect the m4 will be quieter under full load even with its allaluminum cooling system.
+anyhow, music oriented users might prefer a m4 max mac studio over the m4 pro mac mini.
+too bad the m4 max mac studio doesnt exist yet.
+i have an m1 mini and heard the fan for the first time last week after owning it for years i was processing a few 4k videos with full cpu and gpu load.
+it caught me completely off guard.
+the case for the m1 and m2 mini was clearly designed for the thermal needs of intel macs my 2012 quad i7 would constantly push the fan and was way overkill for those chips.
+with the m4 i guess apple finally decided to scale back the thermal mass of the device to match the actual requirements of the m4 series socs.
+it shouldn't impact the reliability or longevity of the chips, but will probably lead to the fan being heard more often, unfortunately.
+you are running an m1.
+m2 pro reportedly engages the fan more often than m1 and m2.
+not what i was expecting when i saw that this was about the new minis soundi would have titled this noise rather than sound.
+i know, and i suspect an m4 pro running under full load to be a bit louder than an m2 pro because of the smaller case assuming they have a similar tdp.
+i was just commenting on the general expectations from the last two generations that apple silicon mac minis are always quiet.
+very surprised to hear this  given there was backlash over the m1 mac studios which they fixed with m2.
+i never hear the fans in my m1 max macbookj pro nor in the m2 max mac studio.
+curious.
+we shall see how this plays out.
+i got the base model.
+it most likely is better than similar windows mini pc's, which can be very annoying.
+how does it compare to the old mini?
+right, it should be 'noise' not sound.
+but interesting nevertheless.
+the test on heise ct says for the pro under artificial benchmarks a noise of 5.7 sone wich is very high.
+for the 1 gig ssd they write speeds of about 6000 mbs, similar values are reported for the macbook pro with 2 gig ssd.
+looked at three so far with no mention of noise.
+it would be great if the fans acted as they do in mbpro... practically always at zero rpm, i practically never felt them unless i forced it on purpose all verified with macs fan control
+if by old design you are not considering the 2018 intel mini sitting on my desk at this moment and sounding like it is spinning up for launch.
+i didn't ask for this chip in a small form factor.
+yes, that is why i still have this unopened m2 max studio in a box that i can return to costco if i decide not to go with the m4 pro.
+you still don't get my point, there was no need to compromise.
+i've never heard someone say they wish the mini was smaller.
+i wished the mini was a bit smaller, as did some other people in this forum.
+this sidebar will go away, and you'll see fewer ads.

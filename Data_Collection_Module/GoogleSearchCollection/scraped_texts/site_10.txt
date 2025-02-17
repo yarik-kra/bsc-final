@@ -1,43 +1,27 @@
 for $50/year with no ads, ability to filter front page stories, and private forums.
 You are using an out of date browser. It  may not display this or other websites correctly.
-Hello I'm looking at these ipads and I'm wondering if they're still usable and if you or someone you know still uses it. Are they terribly slow already? I already have a new macbook pro, I just want an ipad for watching youtube/netflix while lying on the bed and reading pdf files. I really like the quad speakers for watching videos and the 120hz screen for reading pdf files but the used 2018-2021 ipad pro models are still out of my budget so I'm leaning towards the 2nd gen 12.9 and 10.5 ipad pros. Any advice?
-Yes they're old but I think they're perfect for my needs and right in the budget. The cheap ipads (10.2 inch) is a no go because of the one sided speakers and the bigger screen of the 10.5 and 12.9 are appreciated. If I can buy a used one and have the battery replaced are they still a nice purchase? Thank you in advance and I hope you're having a great day!
-I love my 10.5-inch iPad Pro, but if I were buying right now, I'd go with one of the newer 11-inch models, primarily for the USB-C connectivity.
-Performance-wise, they're still decent for now. Caveat, don't know how long you'll keep it or what your performance expectations are for the near future.
-Mind, I don't really see much benefit to 120 Hz when just viewing static PDF pages. It does reduce Pencil lag but even 60 Hz ain't all that bad there.
-Battery's pretty shot on my Pro 10.5, though. It's around $100 for an official battery replacement and third party repairs sometimes use inferior batteries. If I were you, I'd just allocate the funds for a battery towards getting a newer model.
-Agree with others mostly, if you can get a new battery and still be well under the price of an 11" pro, it's still a great iPad. Poor battery life after 4 years + USB-C/Thunderbolt + larger screen (went 12.9") were my motivating factors to upgrade, but aside from the battery my 10.5" still feels capable. If you don't intend to connect external devices for file transfers, the USB-C/Thunderbolt is not a big deal.
-If you don't intend to connect external devices for file transfers, the USB-C/Thunderbolt is not a big deal.
-For me, the convenience of USB-C means one fewer Lightning cable and adapter to carry. I can just use the cable and wall wart that came with my MBA to charge them both.
-That's true, but for now at least I would still need a Lightning cable to charge my iPhone
-(obviously, this is just my personal perspective I'm sharing, others' needs are surely different)
-I would stay away from the 10.5 pro. A few months ago the touch screen stopped working on mine and made it completely unusable and forced me to buy a new iPad. After doing research I learned that I was not the only person to experience this.
-I don't normally carry a laptop unless I know I'd need it for work or some other esoteric stuff so USB-C would actually require me to carry an additional wall wart and cable.
-I do, however, use iPhones and AirPods and already have a 6-port 60W USB-A charger and plenty of Lightning cables collected over ~9 years.
-Thank you all for the kind responses. I don't mind the lightning cable since I still carry one for my phone and airpods pro and I don't intend to use the external port other than to charge the device. It will just be a netflix/youtube machine. I don't plan to play in it too as I have a switch and the PS5 for those. On the other hand, I agree that every device should already use USB-C. Sucks that I have to bring multiple cables for my phone, laptop and for the apple watch when travelling. At least I just use one PD usb-c charging brick. The screen not working is kinda concerning though.
-How long will I plan to keep it? Until it becomes too slow that it can't handle youtube and netflix as my macbook does all the heavy lifting for my job. Heavy lifting a.k.a. MS Word and Powerpoint (LOL). Just looking if it's still a good media device. Again, thank you everyone for taking the time to respond. Ya'll are awesome!
-I just sold a 2nd gen and it was still a very capable machine and I was actively using it for professional illustration work. Its battery was just not what it used to be and the extra ram on the 2021 was hard to pass up, but I could have made the 2017 work for my needs for quite a while longer if I had gotten the battery replaced.
-I strongly believe the 2nd gen iPad Pro still has at least 2 years of iOS updates left. It has 4 GB RAM.
-I'm still using the 10.5-inch and it's super capable. If you can get a cheap used 10.5-inch or 12.9-inch, it would fit your needs very well. Battery replacement is $99 with Apple but you also have the option of third-parties.
-Battery replacement is $99 with Apple but you also have the option of third-parties.
-Surely this was a typo? I've heard its like $400-600
-When I investigated it for 3rd party prices were around $150-175 but I have heard that through Apple it's much higher.
-It's ~$100 in the US. However, the iPad has to have no defects and battery below 80% (based on their diags) for Apple to accept it for battery service. They can't swap batteries in-store so they pretty much just do an iPad swap.
-If there's any other defect, then it's ~$400-600 out of warranty service fee depending on the iPad Pro model.
-An iPad service that is not related to the battery is hundreds of dollars. A battery replacement alone is $99.
-They don't actually replace the batteries in iPads. They give you a new (probably refurbed) unit.
-They are fast enough still. I still have one myself.
-I’m still using one as a daily driver and it holds up well.
-I'm glad it stil holds up. Did some reading and saw that some have this white screen issue.
-There’s a large thread about screen issues with the second gen pro, which is why I’d recommend a newer model after saving a bit more.
-Even my old 12.9 has the backlight issue to some degree, it doesn’t really bother me much as I just tend to use dark mode and rarely run past 50% brightness.
-There is also some mention of “touch disease” but haven’t really noticed it. Someone here could likely explain that better than I can.
-It will get more than 2 years of OS updates. A10X is still capable and even has more RAM than A11,
-Still love and use my Gen 2 12.9 daily.  Plenty fast and a great screen.  I haven't been into our office full time since March of 2020 so my use case is reduced to brief news browsing, some light YouTube watching and sometimes using it as a mobile TV using streaming services (Netflix, YoutubeTV, Disney+, HBO Max etc.).
-Personally I'd only buy a Gen 2 as a certified refurb direct from Apple.  My Gen 2 is still covered month-to-month with AppleCare+ and I'm glad to have that coverage.  I have had two replacements due to touchscreen sensitivity issues in the past 3 years of ownership.  So far this 3rd unit is working ok so I'll be keeping this device for at least another year and a half or so before looking to upgrade it. Most people who own these things are trouble free but my experience has been different.
-It’s still a great ipad.  I‘ve owned a 64gb 10.5 pro for the past couple of years, but for the past few months I’ve been struggling with storage issues and having to delete apps, so just this weekend I finally solved it by getting… another 10.5 pro, this time with 256gb.  It’s just such a great machine, I already have the case, keyboard and pencil for it, it works really well and really fast, and for now I have zero interest in anything newer.
-Given the inherently limited nature of iPadOS, I don’t believe there’s anything that a newer ipad can do that the 2017 version doesn’t do excellently as well.
-I still have my 2nd gen iPad pro 12.9. For browsing and watching videos, it's still a very capable machine.
-In fact, browsing web on iPad Pro is better than my 2015 MPB.
-I still use my 10.5 plenty.  Great for media.  I'll defer to others on the updates and battery life.
+I received my new 14" MacBook Pro M4 machine today. 24 GB, 1 TB SSD in space black.
+It took around 4 hours to migrate my 15" MBA (16GB 1 TB) to the new machine. Once migrated, around 1 hour had it configured correctly and working as expected. No unexpected issues except it stored way more photos on the machine in the optimized setting for Photos, thus eating a lot of my SSD space.
+2. Color seems not as deep a black as the midnight color on the MBA. Greatly depends on the light.
+3. Reduced screen size noticeable but not a show stopper.
+4. Sound is fine but not up to the 16" but better than the Air.
+6. Keyboard identical to the Air and my 16" M1 Max MBPro.
+7. Added SD card slot and port on the right side very helpful.
+8. Screen is noticeable better than the Air, especially off axis. Color accuracy excellent.
+1. Too expensive especially if you need more storage.
+I would really like to have more storage on the machine (my working photo library its around 980 GB as I found out today) but the $400 increment to add 1 TB is criminal. I can add an external 2 TB TB4 drive for $380 which would give me 3 TB but requires me to have a drive hanging off the port which sort of misses the point.
+I have a 16" with 4TB but that is way too heavy for portable work. This machine misses the point for me and will probably end up going back to Apple. It is very functional and fast and will more than meet my CPU and GPU needs but I cannot get the storage which meets my needs at a decent price point.  I wanted a light and therefore portable machine which had the performance and capabilities for my photo work. This machine almost makes it, but 1 TB is too small and the $400 extra they want for 1TB more is too expensive for a machine in this category. I will probably return the machine and sell the MBA, and revert to using my 16" M1 Max MBPro for the foreseeable future.
+And yes, I should have seen this coming but my MBA was not used for much photography work and I had not realized how big my working library had become when I decided to get this more capable machine that could act as a more portable machine for photo work.
+This is a phenomenal machine so long as you can live with the cost of storage. Apple really do know how to make life miserable.
+External storage is relatively cheap. I mean the most I would even spec a MBP is 1TB at most.
+For the price for a 1TB to 4TB upgrade on a MBP, I could pick up a 4TB T9 SSD with 2000/2000 at around same pricing, yet 4x more capacity.
+The ram is where it needs to be correct usually, and some storage for a bit of peace of mind. 1tb seems like sweet spot
+As I mentioned in my post, 2 TB of Thunderbolt connected external storage is around $380 which gives as fast storage access as internal storage but requires me to have a device hanging off the machine. This, to me, kind of ruins the point of a laptop. For a desktop, such as the Mini or iMac or Studio, this is not so much of an issue but a laptop is supposed to be an all in one portable machine. An aesthetic quibble I know, but tips me away from this otherwise excellent solution for a more portable solution for my photography needs.
+I might as well stick with my less portable 16” MBPro and dispense with the 2nd machine entirely. I had thought this new M4 based MBPro might provide me with a compact and portable machine and I could probably retire my 16” MBPro or attach it to a dock and replace my aging 2020 27” iMac for a while, which does need upgrading. Such is life.
+The keyboard on it looks different than the previous gen Pros. Or is it the same with the same 1.1mm key travel?
+It is identical in size (approximately 10 7/8" x 4.5", 275 mm x 115 mm approx) as the MBPro and MBA and the travel feels the same, so I am guessing it is the same keyboard. I certainly cannot feel any difference. Appearance is identical.
+Somewhat subjective, I think,  since the sound from a laptop is not that good and is obviously limited by the physical constraints of the packaging. Compared to most Windows laptops, Apple laptops are infinitely superior but I would not listen to music on any laptop, Apple or any other type. So I would not choose the 14" MBPro over the 15" MBA (note I do not have a 13" MBA to hand to compare the sound made by that device, so cannot comment on any comparison between the 14" MBPro and 13" MBA) based on sound. They are both terrible, but the 14" MBPro is marginally better, at least to me. The 16" is considerably better, but that is to be expected from its larger form factor. Again all highly subjective and this opinion is mine and may not be indicative of the general populous.
+My keys on the M4 feel a lot more clicks on light touch compared to the M1 14" and 16". Don't now if I have a dodgy unit.
+Flush-mount MicroSD adapter + a 1TB MicroSD card allowed me to double my storage for around $75. While it is not as fast as either the internal SSD or an external TB4/TB5 solution, what I'm using the added storage for doesn't require super fast speeds. Not only are there no dongles/attachments to deal with, but I can leave the additional storage in the machine at all times, even when the laptop is in the bag and I'm commuting/traveling.
+Clicky is good as long as every key presses and feels the exact same when pressed.
 This sidebar will go away, and you'll see fewer ads.

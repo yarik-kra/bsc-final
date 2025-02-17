@@ -1,50 +1,16 @@
 for $50/year with no ads, ability to filter front page stories, and private forums.
+Is the nano texture screen worth it on MacBook Pro M4?
 You are using an out of date browser. It  may not display this or other websites correctly.
-We have been expecting M3 iPad Pros for a while now but I was just browsing through some of the rumors and I noticed something interesting.
-There was information from a private X account with a proven track record that shared chip identifiers for the new WiFi + cellular iPad Pros and it’s apparently using a T8132 chip. However, T8132 is not the identifier for the M3 chip which is T8122.
-In fact, based on the pattern that the M series chips have been following, it seems like it’s the M4 chip.
-But that’s not all. A few days ago, 9to5Mac found identifiers for the new WiFi+Cellular iPad Pros: iPad16,3 iPad 16,4 iPad 16,5 iPad16,6
-M1 based products all start with 13. For example, the M1 iPad Air is called iPad13,16. The 11” M1 iPad Pro is iPad13,4, the M1 Max Mac Studio is Mac13,1 etc
-M2 based products are 14. The 11” M2 iPad Pro is iPad14,3. M2 Ultra Mac Studio is Mac14,8 etc
-M3 based products are 15. The 16” M3 Max MacBook Pro is Mac15,12. M3 iMac is Mac15,5 etc
-But these new iPad identifiers have skipped 15 and went straight to 16. Are we about to get an M4 iPad Pro?
-I am now convinced iPads will come with M4, the Pros at least
-Also makes sense considering these iPad Pros won’t be updated for another 1.5-2 years and considering Apple has to make the increase in price justifiable as well
-It would make sense to use the better components on the pro line for sure. Interesting to see what the final product will be like.
-Zero chances of M4, zero. M4 is coming either in Autumn or next year, iPad pro is coming in May, regardless of what these codes mean
-There is just no way a new flagship chip starts out in an iPad.  I don’t care if it’s the Pro.
-It’s not happening before an iMac of any variation or a laptop.
-It will be late 2025 if not 2026 before we see the M4 in an iPad Pro.
-Only thing I can see happening here is that the M3 in these iPad Pros may be a revision of the same chip but being fabricated with a cheaper manufacturing process (They may be using N3E instead of N3B)
-It would make sense from a high end iPad perspective but M3 is barely 1/2 year old. It seems that timing is not correct if Macs with M4 are supposed to ship end of the year.
-Weren't there rumors of an N3E (or possibly N3P I guess, if it saves design time) variant coming for the A17 and/or M3?
-That did happen before, IIRC the M2 was out on the iPad before it was on the MBP/iMac?!
-But I do think this is to early for the M4 to be ready to be put inside an iPad. It would soften a lot of the waiting for the new iPad Pro M4 11” with oled and horizontal facetime camera.
-No. The M2 debuted on the M2 Macbook Pro 13" and was shortly followed by the Macbook Air. This was during June of 2022. The M2 IPP came in October. There never was an M2 iMac.
-As long it's at least an M3 PRO in the new iPad PRO I'm happy
-Actually, the M4s could have been manufactured since January, as TSMC is rumored to be using the N3E node since late December.
-I have hopes that during this next WWDC Apple will unveil their new generation of M4 SoC focused on AI, along with iOS 18 and macOS 15… you say the new iPad Pro is coming in May? Well, just delay it a bit more until June, and everything clicks.
-i know it wont happen, but damn i would love that. iPad really needs some love.
-M4 before iphone? guys, no words...iphone is first, always has been
-i mean the base future SoC will always comes first in iphones then Macs/ipads
-i mean M4 will come after iphones "A18 pro" which M4 will be based on
-Honestly, they should worry less about putting more power into the iPad (especially in the pro), and more about optimizing all that power it has. The main ballast that iPads have is their Operating System. In the end it's like buying a Ferrari, with a 600hp engine but limiting it by switchboard to 80mph and 90hp.
-Put M3 or M4 chip with the current OS, it will be very very underutilized. Today, not even the M2 is made the most of on the iPad.
-I’m not entirely sure the M2 is overkill for the iPad.
-When I connect my 4K screen and have Nebo.app and run a video PiP on the iPad and have word, outlook, finder and safari open on the screen, it tends to get rather hot. Certainly in the summer it often stops charging at 80% to prevent battery damage.
-So perhaps the M2 isn’t that overpowered as many seem to think.
-And the M3 might have a little bit more overhead space and less heat, so my iPad can charge to 100% while being used.
-What happens is that what you indicate is done by a MacBook Air without getting disheved with very similar hardware.
-I don't think we can argue that the power (which is a lot) of an iPad Pro M2 is wasted, mainly by the OS, seeing what an almost identical processor and hardware is capable of doing.
-I'd be extremely surprised to see the M4 come out before Q3-2024.
-And the iPad didn't benefit all that much from M1 or M2, and I don't really see any benefit from M3 let alone M4. The OS will never make use of all that power.
-The logical roadmap is to release the M4 on a macOS device first and foremost. THAT will benefit from a more powerful CPU, GPU and memory.
-The OS does benefit from the power. I saw noticeable performance improvements in my render and export times from A12Z to M1. You just don't use the apps where it has an impact.
-Both before and after Apple transitioned Macs over to Apple silicon with M1, Apple has consistently been leading every new Apple-made SoC generation with its best-selling and by far most important computer/device, iPhone.
-iPhone 16 will be the first Apple product make the jump to the next generation of SoC which is named A18 for iPhone (and some iPads, maybe) and M4 for Mac (and some iPads, probably).
-All of what Apple has become and most of what it gains every year emanates from the continued success and of iPhone.
-Capital and most of the supply chain has to(!) first and foremost accommodate demand for the upcoming iPhone. What next gen. Macs and iPads launch when after the upcoming iPhone has launched is partially determined by the success and demand of said iPhone.
-In other words, if we see any Mac or iPad releases before iPhone 16 launches in September then they'll all be M3 at best (iPad Air will probably get M2).
-Maybe 20 apps on the App Store such as Final Cut will clearly benefit from this, but not the OS per se. I rarely if ever see anything load with my A12Z and do not feel the need to upgrade
-On the other hand, macOS in its entirety will benefit from M4. I have an M2 Pro, and would still be constantly looking for more and more power.
+I will buy a MacBook Pro M4 Pro this next week, I’m considering getting the nano texture display because I’m already getting 48gb RAM and 1tb so may as well upgrade the screen too. The thing is that I don’t really plan to use it outdoors and the use cases for the nano texture display don’t really apply to me.
+I had a MacBook M1 Pro that I used almost exclusively indoors and for me having good colors is very important because I want to use it for entertainment too (movies, videos, some games etc) and I’ve heard that you sacrifice a bit of color quality on the nano texture display, and that the screen looks grainy when displaying white and other colors.
+I don’t have any Apple Stores nearby to check in person, so I want to ask if the nano texture option is worth it for someone like me who is mostly indoors and color quality and brightness is a priority, the price increase is not a problem, but a grainy screen that looks weird indoors would be.
+How flexible is budget? Do you work outside or in sunlight? If you don't work outside, spend the extra $$ on more memory .... ok never mind, I see you already are going for 48
+Honestly I would not get it for your use case. Even using my laptop outdoors the brightness is bright enough it's perfectly fine without nano texture.
+I get the appeal, and if someone is in an environment where there's a lot of reflections it makes sense, but matte screens do have a dulling effect. I remember when monitors went glossy it was just an amazing pop of contrast and clarity I would order all my computers with glossy screens.
+May I ask, if a nano-textured display is clearly not needed for your use case, why are you considering buying it? It's not a performance upgrade like CPU, memory and storage.
+My wife and I just bought a house a few months back, and one of the things we loved about it was how much natural light we get in the living room and common areas. On the flip side, I've been noticing all the glare while using my MBA. So I wandered off to the Apple store to look at the new MBP and see the matte screen. It's pretty impressive, doing a great job of cutting down the glare without muting the color
+So I'm hoping the new Airs next year will have a matte option (I'm not holding my breath). But it impressed me enough that I might end up with a MBP and deal with the added weight.
+I was considering it because while I don’t work outside that could change (and having a MacBook with so much battery could actually encourage me to use it more outside) other reasons are because always sell my old devices to finance new ones (even when I will keep this laptop for 5 or 6 years) and having nanotexture would increase the resell value a bit.
+And last because I’m getting AppleCare too and since the price for the plan and deductible remains the same always so it would have been nice to pack as many things in there as possible so in case anything happens AppleCare was worth it.
+Now I don’t really think I will add nanotexture, it’s really not something that I need and it comes with drawbacks on brightness and color that I’m sure I will notice, also apparently requires a special polishing cloth to clean, so yeah doesn’t seem worth it in my case.
 This sidebar will go away, and you'll see fewer ads.

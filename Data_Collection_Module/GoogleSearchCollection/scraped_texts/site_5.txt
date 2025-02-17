@@ -1,40 +1,53 @@
 for $50/year with no ads, ability to filter front page stories, and private forums.
 You are using an out of date browser. It  may not display this or other websites correctly.
-With all the upgrades the iPad Pro is actually PRO now. Even with an OLED display and a new M4 CPU it can flex 💪 on MacBooks.
-If they don’t add a macOS option next month then all hope is lost
-This thing will flop hard unless they pull a 180 degrees with the OS for it , this thing has so much horsepower but no utility.
-What "professional" work can it do now that it couldn't do before?
-iPadOS can't leverage all the power of an M1 chip, forget M4. The OLED screen will be a very nice upgrade for graphic designers.
-Under 40 TOPS. This wasn‘t apples AI chip. M5 in fall?
-Spot on. I have a 12.9in 2018 iPad Pro. The new M4 iPad Pro would allow me to do nothing more. Absolutely nothing. And given the rumours (or lack of), I suspect we aren't getting much for iPad OS at WWDC. As soon as proper windowing, file management, etc come to the iPad I will drop £1,500 on a new one. Until then, my 2018 iPad is doing just fine.
-Now how is iPadOS awful? I don't get it. I have so many apps that only iPadOS can use, it's not funny. Neither Windows, or MacOS have touch optimized apps like iPadOS. Windows more than MacOS, which has zero, but Windows is very weak this way. Android, don't even go there.
-You get these zealots who want MacOS on the iPad. I get that, but please... I DO think Apple should allow Windows emulation. No reason why that isn't happening, considering Arm Windows is touch-able, and works ok on Mac OS.
-Then again, just having shelled out $1700 for this, I get a little defensive
-I do get the need to justify NOT spending money though. There's that
-No floppy, no pro.. it should at least run computer os like dos.
-I agree ipadOS is fine as a tablet (touch) OS, but I think the complaints are partly coming from Apple’s somewhat unclear positioning of the iPad Pro as a potential laptop replacement.
-I think people have a point: there are many ways in which ipadOS is much more restrictive than a desktop platform: Apps can only operate in a walled garden (both their distribution and execution), access to the hardware is more limited, access to the file system is more limited, ability to automate tasks is more limited, ability to multitask is more limited, and the list goes on. If Apple doesn’t think those things are suitable for an iPad it is fine, but then I would agree with others that their marketing (and arguably pricing) is misrepresenting the device capabilities.
-Having said that I don’t think people asking for macOS are being realistic. In its current form, macOS simply isn’t designed for a tablet form factor so the switch between tablet mode and “laptop” mode would be a very poor UX (basically 2 different OSs). IMO the more “Pro” feature set should rather come from an expansion of ipad OS which would be closing the feature gaps with macOS while taking into consideration the hybrid laptop/tablet experience which Apple is trying to sell and allow for seamless switching between the two modes.
-Unfortunately, it still uses the same rear camera sensor from iPhone XS/XR. Not Pro in that respect.
-I think people have a point: there my way in which ipadOS is much more restrictive than a desktop platform: Apps can only operate in a walled garden (both their distribution and execution), access to the hardware is more limited, access to the file system is more limited, ability to automate tasks is more limited, ability to multitask is more limited, and the list goes on. If Apple doesn’t think those things are suitable for an iPad it is fine, but then I would agree with others that their marketing (and arguably pricing) is misrepresenting the device.
-Having said that I don’t think people asking for macOS are being realistic. In its current form, macOS simply isn’t designed for a tablet form factor so the switch between tablet mode and “laptop” mode would be a very poor UX (basically 2 different OSs).
-IMO the more “Pro” feature set should rather come from an expansion of ipad OS which would be closing the gaps with macOS while taking into consideration the hybrid laptop/tablet experience
-which Apple is trying to sell and allowimy for seamless switching between the two.
-Spot on, Sir. Well said. Mac OS is definitely unrealistic for Apple, but its key features should come across. This is what i'm hoping for, and waiting for, before I upgrade from my 2018 iPP. I refuse to drop £1.3k+ on an iPad that cannot do any more than my 6 year old iPad.
-You guys who want iPad to be (more) like MacBook, why don’t you just use MacBook? I mean seriously
-You guys want it to have keyboard, trackpad and MacOS… isn’t that like… MacBook Air? Perhaps what you really want is MacBook with touchscreen and pencil support. Like form factor of a MacBook Air but like 2in1? Those things seem to be terrible at least on Windows side of things. Maybe PC makers just don’t know how to do it properly but Apple would make good 2in1?
-Now how is iPadOS awful? I don't get it. I have so many apps that only iPadOS can use, it's not funny.
-I have photography apps such as Topaz that don't work on iPad OS so I stick to my iMac.
-I doubt they will ever put MacOs on iPad - it would eat into the sales of MacBooks. Can't allow that!
-For casual use like browsing the internet on the sofa and watching things, the iPad is the perfect device. But given its power, price and size (for the 13in version), I want it to do more. But I can't do anything serious given the current state of iPad OS. Even with a mouse (the pointer on iPad is also horrible) and keyboard, I find using Pages on iPad subpar versus a Mac, even though the screen size can be the same. The software just sucks in general. iPad apps are gimped, be it menus, layout, file access or otherwise. A hybrid would be nice for casual use and light work, but it won't happen. As you say, the windows attempts were terrible. Maybe for good reason, but maybe Apple could do it better. I may try out a cheap MBA 13in M3 and see if I miss the touch screen.
-I understand. I have MacBook for work and most basic iPad for ‘sofa’. Two separate devices but both excellent for their use cases.
-I have a Mac mini and iPad. Maybe i need a laptop, too
-It has absolutely class leading specs with the M4, OLED screen etc, but just massively held back by iPad OS. Those that want to use Lightroom, Final cut Pro etc have all the performance they need, so there is that, but it just does not have the Utility and flexibility of Mac OS, or some kind of forked version of it.
-iPadOS is macOS adapted for a touch-first user interface. Apple sells MacBooks for those of you who still need the classic legacy operating system. There's no need to wait until next month to find out that classic macOS is not coming to iPad.
-Ok. I'll entertain this notion. I'll say MacOS has no utility. All that horsepower in the M3 Max/M2 Ultra with nothing to show for it.
-1. How many pro apps are actually optimized for 64GB+ RAM Apple Silicon
-4. Insane GPU w/RT, but game devs still prefer UE5 on Windows
-Watch me flex on iPadOS by browsing all my files and installing software from outside the app store. Freedom baby.
-I’m going to just quote Jason Snell: “Imagine how much more flexible it would be if it could run macOS, virtualized, when connected to an external keyboard and trackpad. Apple’s first convertible device would be able to becomes a Mac when it needed to—and exit that mode when it doesn’t. Travelers could invest in the iPad Pro and all its accessories—at a price comparable to a MacBook Air, by the way—and know that they’re getting the best of Apple’s tablet experience and its traditional computer experience.”
-It's so "Pro" it even has a massive 8GB 💪 of memory.
+Full disclosure, I swear I looked, but I'm having a difficult time finding some concrete arguments so I thought I'd ask. I am sure I am likely rehashing multiple threads and other questions but, here goes.…
+I purchased a 14 " MacBook Pro M3 Pro 18 Gb, 512, (the base model M3 pro) from Best Buy for 1699 new and am still in the return window.
+I really like the device. I do wish the screen was a little bit bigger. Had the 15 inch MacBook Air that unfortunately was using a little bit too much RAM at 8 GB so, I needed to upgrade. Really missing the screen size, but I think that's a conversation for another time…
+I'm trying to figure this out from a purely value and bang for buck perspective.
+But I'm trying to find out if buying an M4 pro with the basic M4 processor (16GB/521) for $150 off is a better use case for me now that ports are expanded than the current M3 pro with the M3 pro processor. Everything that I've seen is that they are essentially comparable from a processor perspective, but what about the ports/fans/screen quality stuff? It does look like it will drive the additional monitors and has some faster connections.
+M3 Pro with the M3 PRO processor 18 GB/512 for 1699
+Are the ports/fans/screen quality stuff now essentially the same ?
+What is the threshold on value? if Best Buy drops another $150 off the older M3 models, that would be great for Black Friday, but I am still paying more now for technically older technology.
+Or, what if I threw economic caution to the wind and just said M4 pro with the M4 pro processor versus the M3 pro with the M3 pro processor I currently have?
+Beyond the processor capacity, are the additional upgrades to the new M4s that make it much more appealing? I know everyone has their own opinions and use case, but I'm really struggling to figure out if I wanna just roll with the device I have, go with the basic M4 or step up to the M4 pro. In a perfect world, there would be a 16 inch with the base M4 processor and that might be my unicorn.
+The screen is improved on the M4, and the ports are the same as the M3. What are you using your computer for? I doubt the M3 Pro will give you much power you need vs. the M4 on the new model, unless you are hammering it daily.
+If I were you, I would return the M3 pro and get the M4 for $1479.
+The binned M3 Pro GPU will be better than the base M4 GPU, so if you like to do any gaming the M3 Pro is better. But for the CPU, the M4 CPU will be better in single threaded tasks and almost as good, if not better, in multithreaded tasks as the M3 Pro and will overall use less power. So depending on what you are using it for the M4 will likely be the better buy ...
+Thanks for the heads up. I use my computer for keynote presentations that drive a large touch screen, video editing, and some basic photo editing.
+The ports are a concern to me because the MacBook Air and older MacBook Pros did not drive my large touch screen well. I believe the issue was the related to the ability to drive multiple screens. The M3 has no issues connecting immediately, but older devices that only connected 2 screens would be an issue. Seems like any Mac that can drive 3 screens will work with no issue.
+I am concerned the M4 (base) would have the same issue as the older Macs, but the ability to drive multiple screens and been increased, so my concerns may one for not.
+Unfortunately that just seems like the sort of thing that you'll probably just have to test it and find out for sure, but it'll probably be fine.
+Graphics power can help with photo and video editing as well. Having said that, the GPU differential between the binned M3 Pro and base M4 isn't that big - like 15-25% more powerful depending on workload. Now that the base M4 comes with 16GB of RAM standard, that's probably more important. I believe that both the M3 Pro and base M4 have a single media engine though I don't remember if Apple made any upgrades to the media engine in M4.
+Bottom line: as long as your external touch screen works, the base M4 is probably the machine you actually want.
+I have the M3 Pro chip and was considering the base M4. Went on live chat with Apple last night and they said; "I would like to brief you that the M4 is better than the M3 chip base variant and not the M3 pro chip". I'm sticking with my M3 Pro.
+Depends, better in what? Because it isn't better overall. In graphics yes, but that's it.
+You're going to get better battery life on the M4 model as well as a better camera, too, compared to the M3 Pro. The screen is going to be brighter also.
+So, is the consensus other than graphics, things are the same, if not better?
+My largest concern is there is no degradation in the ability to drive external displays than the M3 Pro.
+If RAM was the issue why not buy a M3 MBA15 again now that 16GB is the base spec?
+At the time of my purchase of an M3 pro, the M3 air was essentially the same price for a similarly spec pro.
+You are correct, the M3 air is a pretty decent buy now but, the 15 inch M3 air that I had had trouble driving my external display I assume because it was so large and essentially a touch layer screen over top of a traditional screen. At 85 inches I think it did have difficulty driving it properly so I do think the air is not an option moving forward, but, thank you for the reply!
+They are able to drive the same number and quality of external displays:
+How many displays can be connected to MacBook Pro - Apple Support
+The number of external displays that you can use at the same time depends on your Mac model and the resolution and refresh rate of each display.
+With the new report posted on Macrumors today about the The M4 MacBook Pro models feature quantum dot display technology....I have to really think the M4 is the better option for my use case, and I would be saving an additional $220.
+Where is the downside besides graphics and 2 GB less of RAM to the M3 PRO vs the M4 ?
+From my point of view, those are the only two downsides. If you really need the extra GPU raw power, that’s the only case that I would consider the M3 Pro. Other than that, the M4 MBP is a better, newer, and cheaper machine.
+I believe that I am coming around to that school of thought...
+There is none. Return it today and get the M4, you know you want to!
+Yeah being able to return for full price is the best deal you'll ever get for the M3 Pro, it won't sell for nearly as much later on if you keep it. Definitely suggest returning and buying the M4.
+The rabbit hole is deep....amazon has the M4 Pro 24/514 for 1839 today...so that is $130 MORE than I spent on the M3 pro.
+The base M4 is $220 less and arguably better than the M3 Pro in day to day.
+I would likely never truly need the power off the M4 PRO, but it may be nice...
+So, save $220, spend $130, AND WHAT COLOR. I initially wanted silver, but have taken a shine to space black. But the classic has always has a special place in my heart.
+I would save $220. Why spend more if you don't need it? The space black looks nice, but I always liked the silver of the MacBook Pros because of the black keyboard bed. The black background of the keyboard makes the silver look so nice.
+you are a rational voice at the moment. lol. I do think the base will do me just fine.
+I've watched 3 or 4 youtube reviews where they say because of the single fan in the base 14 inch MacBook Pro, if you push it hard the fan comes on sooner and is noticeably louder than the dual fan in the M3 and M4 Pro chip versions. Probably not an issue doing normal everyday things but maybe something to consider if you will be pushing it hard.
+Has anyone seen any reviews about M3 Pro vs M4 Pro as in is it worth the upgrade?
+Not that it matters, but I ended up with the M4 Pro with the M4 Pro Processor.... 24/512.
+Amazon has it on sale today for 1799 and Best Buy matched it even though the listed price was 1839 with a $39 dollar coupon.
+I guess looking at it that way, I paid 1699 for the M3 pro and a $100 more for all that the M4 pro has.
+Still a little wary because the base M4 is going to fit my needs, but between it not being available locally, my online order being stuck in 'pending pickup' for five days, and my own impatience...I pulled the trigger lol.
+My only observation is that if no one told me about the screen- I am pretty certain I would have noticed the difference! I have a window in my room so there are times it is pretty bright in here. The screen is great!
+Not having to wait around for it is definitely worth something. Congrats on the new machine!
 This sidebar will go away, and you'll see fewer ads.

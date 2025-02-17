@@ -1,34 +1,1677 @@
 [
     {
-        "sentence": "an app experiment how much do i really need dedicated apps with a desktopclass version of safari can i add the bookmark icon to my toolbar in safari anyone having wifi connection issues with ipad mini 7? downgraded m4 back to ipad pro m1 much better for the eyes!",
-        "aspects": [],
+        "sentence": "however, there are some things i don't like about this system, especially for the starting 1599 price 1949 as tested.",
+        "aspects": [
+            "pricing"
+        ],
         "sentiment_scores": {
-            "general": 0.7
+            "pricing": -1.3
         }
     },
     {
-        "sentence": "looks like m4 ipad pro is a bit of a flop on a relative basis apple earnings pilot choice for ipad using foreflight wifi cellular ?",
-        "aspects": [],
+        "sentence": "the nanotexture panel does an amazing job minimizing glare and reflections, and this is coming from someone who spends a lot of time working in my backyard and on the bus.",
+        "aspects": [
+            "display",
+            "design"
+        ],
         "sentiment_scores": {
-            "general": -1.0
+            "display": 1.0,
+            "design": 1.0
         }
     },
     {
-        "sentence": "pretty, i wish it were a macbook the ipad pro with m4 and oled is significantly more powerful and colorful than the previous generation.",
+        "sentence": "pair that with over 1500 nits hdr brightness tested, and the macbook pro m4 display looks awesome even out in sunlight .",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "the macbook pro m4 lasted an epic 18 hours and 31 minutes, which is an hour longer than the already great macbook pro m3 and lunar lake.",
+        "aspects": [
+            "battery"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0
+        }
+    },
+    {
+        "sentence": "ive been running the developer beta of macos 15.2, which includes chatgpt support, but alreadyreleased features include the improved with the option to type to siri, helpful writing tools, and photos features like clean up.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "this is one of the reasons i dislike bst.",
+        "sentence": "i say finally because this is one of those things that is definitely long overdue and has been on my wishlist for a while as a macbook pro user.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "it helps that the base model now has three thunderbolt 4 ports, compared to two previously, although if you want more bandwidth with thunderbolt 5, youll need to step up to a m4 pro model.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i noticed a big difference in image quality when i took some selfies using the photo booth app, but you'll really appreciate the boost during for video calls.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "on the blackmagic disk speed test, the new macbook pro was slightly slower than the previousgen m3 model, which is strange.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": -1.3
+        }
+    },
+    {
+        "sentence": "from my personal experience, while the macbook pro m4 run big titles, the performance and speed just isnt what youd get compared to one of the .",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": -1.0
+        }
+    },
+    {
+        "sentence": "on the plus side, i did have a blast playing resident evil 4 and the graphics look awesome in a gruesome way.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "its noticeably faster, and youll be able to take better advantage of all the new apple intelligence features.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i especially like the nanotexture display for a glarefree experience and the extralong battery life.",
+        "aspects": [
+            "battery",
+            "mouse",
+            "display",
+            "design"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0,
+            "mouse": 1.0,
+            "display": 1.0,
+            "design": 1.0
+        }
+    },
+    {
+        "sentence": "still, i wish the ssd was faster, and for this money i dont think you should have to pay more for a beefier gpu to get silky smooth frame rates on the latest games.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": -1.0
+        }
+    },
+    {
+        "sentence": "save up to 500 on these early black friday macbook deals the ultimate macbook hierarchy m4 vs m3 vs m2 vs m1 tested and ranked don't look now, but macs are finally good for gaming sign up to get the best of tom's guide direct to your inbox.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "however, when i started running cinebench's multithreaded benchmark, the fan kicked into high gear and the mac mini sounded like it was getting ready to take off.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "if you're typically wearing headphones or blasting music, it may not be an issue, but it could make the mac mini very annoying in a shared office setting.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.3
+        }
+    },
+    {
+        "sentence": "but what's more impressive... this kinda blows when you can almost never hear the fan on the older design, no matter how hard you push it this is for m4 pro",
         "aspects": [],
         "sentiment_scores": {
             "general": -1.0
         }
     },
     {
-        "sentence": "new ipad pros that may have slightly bigger screens but with large spec bumps too updated ipad air including the introduction of a 12.9 ipad air new apple pencil 3 with various rumours surrounding find my and changeable tips new magic keyboard to make the whole thing look more like a macbook no mention of ipad mini and the one take away from the various videos i've watched is that there is a very real concern that the new ipad pros will have a large price like with the 13 inch coming in around or over 1500 and that may be why there will be a larger air to pacify people somewhat.",
+        "sentence": "you have to make some compromise to put high performance chips into small form factors like this.",
+        "aspects": [
+            "design"
+        ],
+        "sentiment_scores": {
+            "design": 0.0
+        }
+    },
+    {
+        "sentence": "sound is fine but not up to the 16 but better than the air.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "7. added sd card slot and port on the right side very helpful.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "screen is noticeable better than the air, especially off axis.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "color accuracy excellent.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "i would really like to have more storage on the machine my working photo library its around 980 gb as i found out today but the 400 increment to add 1 tb is criminal.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "this machine misses the point for me and will probably end up going back to apple.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "i had thought this new m4 based mbpro might provide me with a compact and portable machine and i could probably retire my 16 mbpro or attach it to a dock and replace my aging 2020 27 imac for a while, which does need upgrading.",
+        "aspects": [
+            "accessories"
+        ],
+        "sentiment_scores": {
+            "accessories": 0.0
+        }
+    },
+    {
+        "sentence": "i certainly cannot feel any difference.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "somewhat subjective, , since the sound from a laptop is not that good and is obviously limited by the physical constraints of the packaging.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "compared to most windows laptops, apple laptops are infinitely superior but i would not listen to music on any laptop, apple or any other type.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "they are both terrible, but the 14 mbpro is marginally better, at least to me.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "while it is not as fast as either the internal ssd or an external tb4tb5 solution, what i'm using the added storage for doesn't require super fast speeds.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": 0.0
+        }
+    },
+    {
+        "sentence": "clicky is good as long as every key presses and feels the exact same when pressed.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "apple has made what was already the best small form factor pc even better to a more compact design, and it packs the new m4 and m4 pro chips all while offering incredible value for money as well.",
+        "aspects": [
+            "pricing",
+            "design"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0,
+            "design": 1.0
+        }
+    },
+    {
+        "sentence": "i can't recommend this mac enough.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the new mac mini m4, 2024 doesnt just prove that good things come in small packages it also confirms the old adage that good things come to those who wait.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the fact that apple has launched a new mac mini that not only comes with the new m4 chip or the more powerful m4 pro, but has redesigned it to be smaller than ever while also keeping the price of entry the same is incredibly exciting.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "its seriously impressive how small the new mac mini is, and it makes placing it in any room of your home or office easier than ever.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the model i reviewed is the m4 version, and to be honest it performed so well for all the tasks i used it for that i would recommend this model over the far more expensive so, apple has done it again its released the best small form factor pc in the world, and i cant see windows 11 or linux alternatives coming close to the build quality, performance and value for money of the new mac mini for a long, long time.",
+        "aspects": [
+            "pricing",
+            "design"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0,
+            "design": 1.0
+        }
+    },
+    {
+        "sentence": "you can see how much smaller yet taller the new mac mini is compared to the m2 model below mac mini m4, 2024 already represented excellent value for money it would be extremely difficult to find a compact pc at that price range that offered the same level of performance",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "thats quite a price jump, and while the m4 pro is certainly a promising bit of silicon on paper, itll have to really outperform the m4 to justify the price difference.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "when taking it out of the box, its seriously impressive how small it is, easily fitting in the palm of your hand.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "placing it on top of the m2 model, the older mac mini looked big and bulky something id never have imagined, as that was an impressively small bit of kit when it launched.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "there's a decent port selection at the back of the new mac mini at the rear theres a power port impressively, despite the tiny size, theres no bulky external psu, an ethernet port and an hdmi thats capable of up to there are also three additional usbc ports.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "these have had slight design changes as they now use the universal usbc cable to plug in and charge, rather than apples proprietary lightning cable, which is good to see.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "didnt take the opportunity to move the charging port of the magic mouse its still located at the bottom of the mouse, which is a baffling design choice as it means when you plug it in to charge you cant continue using it.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "and made its own chips, starting with the m1 in 2020, and my doubts have pretty much vanished, as every major mac device has not only been upgraded to an mseries chip, but theyve also had noticeable redesigns as well, proving that apple is committed to its mac lineup.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "so, its with some relief that the mac mini has not just got the latest m4 and m4 pro chips, but also a major redesign as well, as its likely to be one of apples more niche products.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "apple's infographic about the m4 chip shows the performance the company is promising it shouldnt be since getting mseries chips, the mac mini has become the best small form factor pc you can buy.",
+        "aspects": [
+            "design"
+        ],
+        "sentiment_scores": {
+            "design": 1.0
+        }
+    },
+    {
+        "sentence": "despite its smaller size, the mac mini m4 offers an excellent boost in performance compared to the previous model while any increase is always welcome, those numbers mean if you have an m3 mac mini, you wont really see any major differences in performance, so upgrading might not be worth it unless you absolutely have to have the smaller design of the newer mac mini, which i wouldnt blame you for.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "whether or not apple intelligence, or ai in general, will usher in the computing revolution weve been promised by many manufacturers has yet to be seen, but at the very least you know that if you buy an m4 mac mini or any m4 device, youll be in good stead should you wish to use future ai tools.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "according to apple, the m4 chip is capable of 38 tops that's 38000000000000 operations per second which is incredibly impressive and means ondevice ai tasks should run well.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "however, the snapdragon x elite, like the m4 an based chip built for windows 11 devices, offers 45 tops.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "heres how the mac mini m4, 2024 performed in our suite of benchmark tests one of the best things about apples mclass chips is that the company has made a big commitment to making them as powerefficient as possible, and while this might benefit macbooks more, as it means they can enjoy longer battery lives, the mac mini also benefits, as the more efficient m4 chip runs cooler, which allowed apple to shrink the body of the mac mini and it also means the builtin fans that are used to expel hot air when the components are being used rarely kick in.",
+        "aspects": [
+            "battery"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0
+        }
+    },
+    {
+        "sentence": "for almost all of my time using the new mac mini, it was virtually silent.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "this is great when using it in an office or studio, and it also makes it an ideal mini pc for the front room.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "these are modern and ambitious games, so for a compact pc thats not designed for gaming at this price, that performance is pretty darn great, and you have access to a huge library of mac games through steam and other platforms.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "the new mac mini once again offers phenomenal value for money the new design is fantastic, with a smaller footprint and additional ports.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "just a shame about the placement of the power button simply amazing performance for a mini pc at this price, though it struggles with modern games a bit this is the cheapest way to get into the mac ecosystem, and it's worth every cent to excellent performance and a gorgeous design.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "a barebones mini pc like a nuc will be much better.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "hes personally reviewed and used most of the laptops in our best laptops guide and since joining techradar in 2014, he's reviewed over 250 laptops and computing accessories personally.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "dont want to pay full price for a cuttingedge macbook pro or mac mini? apples now selling m4 refurbs that are more affordable, but still have a years warranty amazon has some of the best macbook air deals i've seen since black friday everything we know about ai video tool",
+        "aspects": [
+            "pricing",
+            "reliability"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0,
+            "reliability": 1.0
+        }
+    },
+    {
+        "sentence": "i went to the set of disney's a thousand blows series and this epic new drama has revived victorian east end london i reviewed this laser engraver and cutter and in my experience, it's one of the most desirable machines out there i read the eus ai act",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "so you dont have to here are 5 things you need to know 5 thrilling tech reviews of the week why the samsung galaxy s25 plus is your mustbuy new phone and hisenses best ever miniled tv",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "good time to be a mac user.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the 14inch macbook pro is apple's only mac that can be purchased with an m4 chip, m4 pro chip, or m4 max chip, so is the m4 powerful enough or is it better to get the m4 pro or m4 max? built on a 3nanometer process, even the base m4 chip is more than enough for everyday tasks like web browsing, checking mail, writing, and watching videos.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "full time creative professionals who need to get a lot done in a short amount of time are going to benefit from the more powerful m4 pro and m4 max chips, as these can cut precious minutes off of rendering times.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "next year, you'll be able to get the macbook air with an m4 chip too, but right now, the m4 macbook pro is the best machine in terms of price, value, and portability.",
+        "aspects": [
+            "pricing",
+            "design"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0,
+            "design": 1.0
+        }
+    },
+    {
+        "sentence": "m4 macbook pro the best value you can get.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "for an onthego machine, the base m4 macbook pro is likely to be an excellent machine for most users, and when the m4 macbook air models come out, those will be ideal for most people even over the macbook pro.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "if the macbook pro is your sole machine and it's used for intensive tasks like video editing and 3d rendering, it could be worth checking out the m4 pro and m4 max chip options, but a lot of people won't need anything beyond the m4.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "i prefer the old apple stickers that came with the computers.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "built on a 3nanometer process, even the base m4 chip is more than enough for everyday tasks like web browsing, checking mail, writing, and watching videos.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "any intel mac can do this better than fine with of m4's performance.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "you only need the higher end models if you are into extreme number crunching, making games, video, or graphics in general which is like my m1 pro is still crazy snappy.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "shame though that bestbuy doesnt sell the nano texture version, wouldve loved that one.",
+        "aspects": [
+            "design"
+        ],
+        "sentiment_scores": {
+            "design": 0.0
+        }
+    },
+    {
+        "sentence": "most folks will do fine with just this base model and for those who want to do heavier lifting, beefing it up a little will probably cover 98 of users well.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i don't know what others are doing with their computers, but i probably only cleaned the screen a couple times it's not a touch screen and doesn't really get dirty.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 0.0
+        }
+    },
+    {
+        "sentence": "as a result, i didn't even take the special cloth from the box of my new m4 mbp and probably will never use it.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "in the meantime, the nano display is great and really works nicely in bright light!",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "i'm using a m1 pro and from a processing standpoint it's mainly fine for most of my day to day requirements, except for the fact that things have evolved from a workflow standpoint that i really need to be running three external monitors.",
+        "aspects": [
+            "accessories"
+        ],
+        "sentiment_scores": {
+            "accessories": 1.0
+        }
+    },
+    {
+        "sentence": "it's absolutely maddening insanity. good grief. this is hands down the greatest laptop gamemode is another great feature.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "there is absolutely no way i could live with a screen that hasn't been cleaned more than 2 times in 9 years.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": -1.0
+        }
+    },
+    {
+        "sentence": "oh, and apple specifically states that using anything other than the polishing cloth will damage the nano texture coating.",
+        "aspects": [
+            "design"
+        ],
+        "sentiment_scores": {
+            "design": -1.0
+        }
+    },
+    {
+        "sentence": "this is one of those rare modern cases where a company made a product too good.",
+        "aspects": [
+            "accessories"
+        ],
+        "sentiment_scores": {
+            "accessories": 0.0
+        }
+    },
+    {
+        "sentence": "i'll keep it until it's physically broken and out of warranty.",
+        "aspects": [
+            "reliability"
+        ],
+        "sentiment_scores": {
+            "reliability": -1.0
+        }
+    },
+    {
+        "sentence": "the max chip this time around i dont think is going to be worth it even over an m3 max with sale discount.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.0
+        }
+    },
+    {
+        "sentence": "edit pro tools can't use efficiency cores which is why the m2 was not a great fit for it, does the m4 promax use a different amount of efficiency cores?",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": -1.0
+        }
+    },
+    {
+        "sentence": "i was going to do the same for m4, but yesterday morning the 'service recommended' battery warning came up.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "later, when there is a problem with sometimes very passionate advice like this, they'll basically blame you for buying too little back in 2024 and recommend buying a new mac as the remedy.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.3
+        }
+    },
+    {
+        "sentence": "that's great for apple and not so great for you... but crucial to considering such input they are fans of apple, the key to your question depends on how one interprets average.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "less fan noise compared to the base model.",
+        "aspects": [
+            "cooling"
+        ],
+        "sentiment_scores": {
+            "cooling": 0.0
+        }
+    },
+    {
+        "sentence": "i don't think the max chip is worth it.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.0
+        }
+    },
+    {
+        "sentence": "that's how you end up with way higher ram usage than you'd expect, and it's very misleading to think it reflects your requirements.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "i don't think the max chip is worth it.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.0
+        }
+    },
+    {
+        "sentence": "i've read reviews that said that the marginal performance jump wasn't worth it.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.0
+        }
+    },
+    {
+        "sentence": "has anyone with a m4 pro macbook pro experienced fan noise yet?",
+        "aspects": [
+            "cooling"
+        ],
+        "sentiment_scores": {
+            "cooling": 0.0
+        }
+    },
+    {
+        "sentence": "according to this video it's worse than last year, especially on the normal m4 model, since it has only one fan.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.6
+        }
+    },
+    {
+        "sentence": "apples latest macbook pro is powerful but probably not worth the upgrade the m4 pro cpu pushes the performance envelope.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 0.0
+        }
+    },
+    {
+        "sentence": "especially since they never ended up adding faceid this is hands down the greatest laptop",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "gamemode is another great feature. good video. base m4 macbook pro is a good laptop.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "any intel mac can do this better than fine with of m4's performance.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "upgraded my 14 m1 maxmbpro to a 16m4 maxmbpro nano with 128 gb ram and 8 tb ssd that is driving two apple studio displays when at home.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 0.0
+        }
+    },
+    {
+        "sentence": "more powerful than my m1 ultra mac studio with 128 gb of ram and 8 tb ssd",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "could it be made even smaller, or have just the hole punch for the camera, probably, but other laptops with as small of bezels end up with the camera at the bottom of the screen.",
+        "aspects": [
+            "display",
+            "design"
+        ],
+        "sentiment_scores": {
+            "display": 0.0,
+            "design": 0.0
+        }
+    },
+    {
+        "sentence": "one thing i've always hated about intel mbps is that as soon as you start watching a youtube vid or even just scrolling through pics the fans come on.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.3
+        }
+    },
+    {
+        "sentence": "its going to be way more powerful than any intel macbook pro and you can get it in the larger size.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "if fan noise is something you dislike, i guarantee you wont ever hear fan noise from it.",
+        "aspects": [
+            "cooling"
+        ],
+        "sentiment_scores": {
+            "cooling": -1.0
+        }
+    },
+    {
+        "sentence": "if youre doing video editing or gaming, then its probably not the best choice i have maxed 96 the cpu on my 14 m4 pro for a period of 5 minutes.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "i fully expected to be hearing something like a hair dryer with fan noise.",
+        "aspects": [
+            "cooling"
+        ],
+        "sentiment_scores": {
+            "cooling": -1.0
+        }
+    },
+    {
+        "sentence": "it makes me question the reviewers and if they are really listening to the fans or just using old information to guess at the possible outcome.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "no mbp has been as hot as previous apple laptops like the g3 were.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i really hate the fan noise, especially when they go up an down and then up again.",
+        "aspects": [
+            "cooling"
+        ],
+        "sentiment_scores": {
+            "cooling": -1.3
+        }
+    },
+    {
+        "sentence": "13 is just amazing with how portable it is.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i just got my macbook pro 14 m4 max 1640 two days ago, and from today suddenly started to create very loud noises from the right side, not like healthy fan noise, more like grinding or something stuck in the fan noise.",
+        "aspects": [
+            "cooling"
+        ],
+        "sentiment_scores": {
+            "cooling": -1.0
+        }
+    },
+    {
+        "sentence": "that is not normal and something is probably broken with the right side fan.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "regardless, imacs and macbook airs have nearly identical specs apart from the laptop form factor and the lack of fans in the air, so if you want to know what to look forward to with the m4 macbook air, just look at the m4 imac and you can make a good guess based on that.",
+        "aspects": [
+            "design"
+        ],
+        "sentiment_scores": {
+            "design": 0.0
+        }
+    },
+    {
+        "sentence": "i hope the web camera will be upgraded on the macbook air, i like the desk view feature.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i could also be tempted by an m3 macbook air on black friday, but it would have to be a great deal to make the change now.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "if it's a good deal, that might be the better call.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "but in many cases, it probably not worth waiting.",
+        "aspects": [
+            "pricing",
+            "accessories"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.0,
+            "accessories": -1.0
+        }
+    },
+    {
+        "sentence": "expecting the mba m4 to update tb ports to tb4 now they are tb3usb4, just like the imac and mac mini m4 not pro. expecting support for 2 external monitors internal display, just like the imac mini. hoping for an extra tb port on the right side which the m4 chip now supports it's just a matter if they want to bring that to the air.",
+        "aspects": [
+            "accessories",
+            "display"
+        ],
+        "sentiment_scores": {
+            "accessories": 0.0,
+            "display": 0.0
+        }
+    },
+    {
+        "sentence": "expecting the mba m4 to update tb ports to tb4 now they are tb3usb4, just like the imac m4 and mac mini m4 not pro. expecting an option for 32 gb ram, just like the imac mini. hoping for a nanotexture screen option they brought it to imac, so it's not just a reservedforpro feature.",
+        "aspects": [
+            "display",
+            "design"
+        ],
+        "sentiment_scores": {
+            "display": 0.0,
+            "design": 0.0
+        }
+    },
+    {
+        "sentence": "just my opinion and i have missed badly before.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.3
+        }
+    },
+    {
+        "sentence": "i'm planning on holding onto my m1 air, but i'm curious to see if the new air will have a matte display option like the new mbp.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 0.0
+        }
+    },
+    {
+        "sentence": "just my opinion and i have missed badly before.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.3
+        }
+    },
+    {
+        "sentence": "this is on top of another great comments above about 21 screen, nano screen and extra ports.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "early results from testing in progress is that it takes about 21s to denoise a 61mpx sony a7riv file, or 36 faster than my older m1 max with the 10core cpu and the 32core gpu, and that matches the speed of my m1 ultra with 20core cpu and 64core gpu.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": 0.0
+        }
+    },
+    {
+        "sentence": "edit to add that i got the nano screen and its awesome.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "i'd be curious how fast the denoise in pure raw compares to the speed of denoise in lr. and a new update...exporting 1465 sony a1 files to fullsized jpegs takes a total of 13 minutes and 29 seconds, compared to 19 minutes and 54 seconds on the old m1 max with the specs listed above.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": 0.0
+        }
+    },
+    {
+        "sentence": "for the previews the m4 max beats my m2 ultra with 24 cpu cores and 76 gpu cores that's purely due to the faster clock speeds of the m4 cores and whatever under the hood updates have been done, as in lightroom that task is 100 cpu only.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": -0.3
+        }
+    },
+    {
+        "sentence": "one other note, using powermetrics to follow the cpu frequency, the machine is thermally throttled as the cores never went above about 3.887ghz.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "so if you are with the older deepprime model only, it's a tiny bit fasterbut that doesn't include any roundtrip times in and out of lightroom or any other dam you might use.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "but overall, lr is very fast and very, very good.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i stopped using dxo andor topaz because of how fast, good and easy the lr ai denoise is.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i've just tested on my m3 max and my sony a1 with lightroom export of 100 rawdngdng denoise sony a1 on lr in 1min30 i tested a stack of 20 raw to denoise on lr of sony a1 and continued to work on other photographs of sony a1 that denoise my 20 files without having latency on the adjustment of layers colors etc.",
+        "aspects": [
+            "gaming",
+            "performance"
+        ],
+        "sentiment_scores": {
+            "gaming": 0.0,
+            "performance": 0.0
+        }
+    },
+    {
+        "sentence": "these are amazing numbers, makes my purchase much more justifiable from the m1max.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "though in tasks that are gpu reliant like the noise reduction in lr, itll probably be close to the m2ultra, which is just plain insane.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "this is probably the last iteration of the design before it moves to a new thinner enclosure with a tandem oled display amongst other notable improvements.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "if you are fine with 16 gig ram then you will probably dont need a m4pro, if you have to go for 24 gig ram the pro costs just 200, that would be a no brainer for me.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 0.0
+        }
+    },
+    {
+        "sentence": "yep, id been appled into being tempted by a macbook thats likely wayyy too much laptop for my needs.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "i get student discount so this works out at 499 which is a good deal.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "personally the m4 pro base for 1999 is the best deal in the mbp lineup.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "compared to the m4 model youre getting 3x faster io with thunderbolt 5 needed if you ever want to plug into future high reshigh refresh monitors appreciate you might not need all of these on day 1, but, in my experience with great machines like these, your hobbies tend to grow with time and you end up wanting to do more and more on it.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "a new m4 macbook air would be great but is not released",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "in germany the m4 mbp is on sale, you get it for 1.800 euro 100 euro cheaper.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 0.0
+        }
+    },
+    {
+        "sentence": "of course the mb pro with m4 pro has more power but battery life is weaker 14 hrs 2 hrs less.",
+        "aspects": [
+            "battery",
+            "mouse"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0,
+            "mouse": 1.0
+        }
+    },
+    {
+        "sentence": "compared to m3 macs the m4 is faster than m3 pro in single and similar fast in multi.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i purchased a 14 macbook pro m3 pro 18 gb, 512, the base model m3 pro from best buy for 1699 new and am still in the return window.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "had the 15 inch macbook air that unfortunately was using a little bit too much ram at 8 gb so, i needed to upgrade.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "it does look like it will drive the additional monitors and has some faster connections.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "if best buy drops another 150 off the older m3 models, that would be great for black friday, but i am still paying more now for technically older technology.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the binned m3 pro gpu will be better than the base m4 gpu, so if you like to do any gaming the m3 pro is better.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "but for the cpu, the m4 cpu will be better in single threaded tasks and almost as good, if not better, in multithreaded tasks as the m3 pro and will overall use less power.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "so depending on what you are using it for the m4 will likely be the better buy ...",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i believe the issue was the related to the ability to drive multiple screens.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": -0.3
+        }
+    },
+    {
+        "sentence": "seems like any mac that can drive 3 screens will work with no issue.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 0.7
+        }
+    },
+    {
+        "sentence": "bottom line as long as your external touch screen works, the base m4 is probably the machine you actually want.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 0.0
+        }
+    },
+    {
+        "sentence": "went on live chat with apple last night and they said i would like to brief you that the m4 is better than the m3 chip base variant and not the m3 pro chip.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "you're going to get better battery life on the m4 model as well as a better camera, too, compared to the m3 pro.",
+        "aspects": [
+            "battery",
+            "mouse"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0,
+            "mouse": 1.0
+        }
+    },
+    {
+        "sentence": "if you really need the extra gpu raw power, thats the only case that i would consider the m3 pro. other than that, the m4 mbp is a better, newer, and cheaper machine.",
+        "aspects": [
+            "pricing",
+            "accessories"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0,
+            "accessories": 1.0
+        }
+    },
+    {
+        "sentence": "being able to return for full price is the best deal you'll ever get for the m3 pro, it won't sell for nearly as much later on if you keep it.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "the base m4 is 220 less and arguably better than the m3 pro in day to day.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i would likely never truly need the power off the m4 pro, but it may be nice...",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the space black looks nice, but i always liked the silver of the macbook pros because of the black keyboard bed.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "amazon has it on sale today for 1799 and best buy matched it even though the listed price was 1839 with a 39 dollar coupon.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "the screen is great!",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "not having to wait around for it is definitely worth something.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "i also like the sharper 12mp webcam and additional thunderbolt port, but the ssd is slower than i expected.",
+        "aspects": [
+            "camera"
+        ],
+        "sentiment_scores": {
+            "camera": 0.7
+        }
+    },
+    {
+        "sentence": "yes, both machines support apple intelligence, but the newer m4 pro packs a much more powerful chip along with other welcome upgrades.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "chopin nocturne no. 2 piano mono moshimo sound design the macbook pro m4 is also fully optimized for apple intelligence, which means that you can take advantage of a wide range of ai features like writing tools, the new , transcriptions in notes and cleanup in photos.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "and theres more apple intelligence features on the way in macos sequoia like image playground and chatgpt integration.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "ive been testing the new macbook pro m4 and using it as my everyday laptop, and this thing flies.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "plus, this is one of the longest lasting laptops weve tested and it blows away my aging m1 laptop.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i love the glarefree nanotexture display, which is a game changer for working outdoors.",
+        "aspects": [
+            "display",
+            "design"
+        ],
+        "sentiment_scores": {
+            "display": 1.0,
+            "design": 1.0
+        }
+    },
+    {
+        "sentence": "the performance from the m4 chip outshines most windows laptops, and you get a sharper 12mp webcam, super long battery life and helpful apple intelligence features.",
+        "aspects": [
+            "battery",
+            "mouse",
+            "camera"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0,
+            "mouse": 1.0,
+            "camera": 1.0
+        }
+    },
+    {
+        "sentence": "the ssd proved slower than expected in our testing, and id like to see better gaming performance results from a laptop in this price range.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": -0.3
+        }
+    },
+    {
+        "sentence": "with the macbook pro m3, you needed to spring for the m3 pro chip in order to get the badass space black color.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 0.7
+        }
+    },
+    {
+        "sentence": "the xps 13 is lighter at 2.6 pounds but has a smaller 13inch display and the the port selection on the macbook pro m4 is a little bit better than the m3.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "this 150 option does an amazing job minimizing glare and reflections, and this is coming from someone who spends a lot of time working in my back yard and on the bus.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "i also tried editing some articles outside in direct sunlight with the m4 macbook pro, and i experienced zero glare.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "on our lab tests, the macbook pro m4 reached a very impressive 1527 nits in brightness when displaying hdr content and 556 nits with sdr.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "on the plus side, the deltae accuracy score from the m4 macbook pro is the best in its class at 0.19 where 0 is perfect.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "my hair and blue shirt look a lot more detailed through the new macbook pros camera, and its all the more impressive because the lighting in the meeting booth was lackluster.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "everything just feels super fluid with this machine, especially compared to my aging m1 macbook pro.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "on geekbench, which measures overall performance, the macbook pro m4 turned in considerably faster scores on the singlecore test than the m3 model and blew away competing windows laptops.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "px13 with an ryzen chip but beat the xps 13 with both snapdragon x elite and when it comes to transcoding 4k video to 1080p, the m4 macbook pro was over a minute faster than the m3 model on our handbrake test but only 20 seconds faster than the snapdragonpowered dell.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the asus was nearly a minute faster than the new macbook, though its likely aided by a more powerful rtx 4050 gpu.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "the one negative surprise in our performance testing was the ssd speed of the m4 macbook pro. on the blackmagic disk speed test, the new macbook pro was slightly slower than the m3 model, which is strange.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": -1.3
+        }
+    },
+    {
+        "sentence": "the m4 macbook pro is a capable gaming laptop, but its certainly not the best gaming laptop for the money.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": -1.0
+        }
+    },
+    {
+        "sentence": "the graphics were lush with impressive lighting effects as i ran around a muddy nightmarefueled landscape.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "and when i paired a ps5 controller to this mac i experienced smooth frame rates when playing asphalt legends unite.",
+        "aspects": [
+            "performance"
+        ],
+        "sentiment_scores": {
+            "performance": 1.0
+        }
+    },
+    {
+        "sentence": "we saw a playable 36 fps and 53 fps in shadow of the tomb raider and civ vi, respectively, which is good.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "you wont find as many options as my favorite free rectangle app, but its a great improvement.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i tried this and it connected almost immediately, complete with all my apps and notifications.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "it can even help make your tone sound more professional, which is a good filter for sending emails.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i really like having a smarter siri on board with macos sequoia.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "yes, you can talk to the assistant, but i found typing easier using the dedicated glowing icon in the top right of the display.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "i could ask follow up questions like how about the next 10 days after asking about the weather today, and i also appreciate that you can get stepbystep instructions on all sorts of things you want to do on your mac, from setting up iphone mirroring to recording your screen.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": 1.0
+        }
+    },
+    {
+        "sentence": "you get fantastic performance from the m4 chip, useful apple intelligence features though youll have to be patient as more roll out, a better webcam and obscenely long battery life.",
+        "aspects": [
+            "battery"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0
+        }
+    },
+    {
+        "sentence": "its just too bad my favorite feature the nanotexture display costs 150 more.",
+        "aspects": [
+            "pricing",
+            "display",
+            "design"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.3,
+            "display": -1.3,
+            "design": -1.3
+        }
+    },
+    {
+        "sentence": "and its one of the best laptops you can buy, period.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i found the 9 best presidents' day oled tv deals including this lg oled for just 599 should i buy a mattress in the presidents' day sales?",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "but i like a large screen to have my work displayed without having to strain my eyes, which is why it is disappointing that apple is not offering a m4 16 model.",
+        "aspects": [
+            "display"
+        ],
+        "sentiment_scores": {
+            "display": -1.0
+        }
+    },
+    {
+        "sentence": "i too would like to see a 16 with a base m series chip.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "so i dont understand why apple made the arbitrary decision to not offer a m4 base chip in 16 with just a 300 price difference in my opinion, it'd be ridiculous to put an ipad chip into the topend macbook pro.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.0
+        }
+    },
+    {
+        "sentence": "3. get a 15 macbook air, which will perform all your tasks brilliantly and is also significantly lighter.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "if in america, hop into the education store to cut the base price of 16 by 200, which gets you a good part of the way to that difference 8.",
+        "aspects": [
+            "pricing"
+        ],
+        "sentiment_scores": {
+            "pricing": 1.0
+        }
+    },
+    {
+        "sentence": "while you probably don't need the added power, the base m4pro mini the 17 screen would come it at about the same price as the base mbpro 14 price... and if you hypothesize how much more a 16 m4 mbpro would cost, you could probably wash the 18.4 screen with an m4pro mini.",
         "aspects": [
             "pricing",
             "display"
@@ -39,249 +1682,60 @@
         }
     },
     {
-        "sentence": "it'd be typical if they redesigned the magic keyboard for macs too as i've just been out and bought one i would love to see a new ipad mini...i know, talk is not this time!",
+        "sentence": "as a developer and founder, time is money, so anything that makes the compiletestdebug cycle go faster pays for itself very quickly.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "airpods max refresh would be good. how likely it is though.",
+        "sentence": "the jump to m1 max, however, was staggering literally 23x faster for what i do, which is mostly cpumemory and very little graphics.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "but not till 2025 so very unlikely for this event.",
+        "sentence": "so if you're coming from anything x86based, absolutely make the jump to anything in the mseries.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "i personally upgraded to the 16inch m3 pro, and its been amazing particularly battery life.",
+        "aspects": [
+            "battery",
+            "mouse"
+        ],
+        "sentiment_scores": {
+            "battery": 1.0,
+            "mouse": 1.0
+        }
+    },
+    {
+        "sentence": "based on your described workflow an m3 pro mbp will be faster than your current needs and will scale nicely to your likely needs in the next 5 years.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "apple silicon really is great, have been on holidays this past days but been trying some of the apps i mostly use and there is a great difference.",
+        "aspects": [],
+        "sentiment_scores": {
+            "general": 1.0
+        }
+    },
+    {
+        "sentence": "that said, i probably don't know what i am missing out on given all i know is the intel mac.",
         "aspects": [],
         "sentiment_scores": {
             "general": -1.0
         }
     },
     {
-        "sentence": "would like to be wrong as i fancy a pair although ideally with all the features the airpods pro 2 have.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "oh wow looks like my wallet will be a big hit the wife wants a new ipad pro after her old one broke.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "and i hope you're having a great day!",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i love my 10.5inch ipad pro, but if i were buying right now, i'd go with one of the newer 11inch models, primarily for the usbc connectivity.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it does reduce pencil lag but even 60 hz ain't all that bad there.",
-        "aspects": [
-            "performance"
-        ],
-        "sentiment_scores": {
-            "performance": 0.7
-        }
-    },
-    {
-        "sentence": "agree with others mostly, if you can get a new battery and still be well under the price of an 11 pro, it's still a great ipad.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "poor battery life after 4 years usbcthunderbolt larger screen went 12.9 were my motivating factors to upgrade, but aside from the battery my 10.5 still feels capable.",
-        "aspects": [
-            "mouse",
-            "display",
-            "battery"
-        ],
-        "sentiment_scores": {
-            "mouse": 1.0,
-            "display": 1.0,
-            "battery": 1.0
-        }
-    },
-    {
-        "sentence": "i just sold a 2nd gen and it was still a very capable machine and i was actively using it for professional illustration work.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i've heard its like 400600 when i investigated it for 3rd party prices were around 150175 but i have heard that through apple it's much higher.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 0.0
-        }
-    },
-    {
-        "sentence": "im still using one as a daily driver and it holds up well.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "theres a large thread about screen issues with the second gen pro, which is why id recommend a newer model after saving a bit more.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -0.3
-        }
-    },
-    {
-        "sentence": "a10x is still capable and even has more ram than a11, still love and use my gen 2 12.9 daily.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "plenty fast and a great screen. its still a great ipad.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "its just such a great machine, i already have the case, keyboard and pencil for it, it works really well and really fast, and for now i have zero interest in anything newer.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "given the inherently limited nature of ipados, i dont believe theres anything that a newer ipad can do that the 2017 version doesnt do excellently as well.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "in fact, browsing web on ipad pro is better than my 2015 mpb.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the design of the new ipad pro is probably the best overall feature, and the drop in weight and thickness makes a difference whether you're traveling or just using the ipad around the house.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "at 5.1mm, the 13inch ipad pro is apple's thinnest device to date, and a tablet of this size and thickness continues to be impressive.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "it's much more natural than treating the ipad like a giant iphone.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it is by far the best display that apple has introduced in an ipad, and you won't find a better tablet display available from competing products, either.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "movies look amazing, the ipad does well in bright lighting, and the hdr makes images pop.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "compared to the priorgeneration ipad pro with miniled display, the oled display is better, but not so much so that it's worth upgrading for that alone.",
-        "aspects": [
-            "pricing",
-            "display"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "apple nixed both the ultra wide camera and mmwave 5g in this version of the ipad pro, and most people probably won't miss these features.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "so you don't need to go hunting for settings to do things like change line thickness or color, and there's a barrel roll feature that basically does things like vary line thickness when tilting the apple pencil so it behaves more like a real writing or drawing tool.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 0.0
-        }
-    },
-    {
-        "sentence": "the magic keyboard is way more mac like to that larger glass trackpad and the aluminum palm rest.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the trackpad is more pleasant to use than before, and the function keys are also a big plus for controlling media, changing screen brightness, and more without having to dig into the settings app or control center.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "unsurprisingly, the ipad pro is without a doubt apple's best ipad, and it's probably the best tablet on the market.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "those are mac prices, and while the ipad's hardware is worth it, it's a lot to pay for the limitations that you're stuck with when using ipados.",
+        "sentence": "waiting might also make it more expensive as, the trade in value will decrease.",
         "aspects": [
             "pricing"
         ],
@@ -290,254 +1744,42 @@
         }
     },
     {
-        "sentence": "i'm not going to because there is no reason beyond the svelte aesthetics, i barley make use of the capabilities of the m2 ipad pro, and i'd just put a case on it anyway... without the ability to run many macos app, i cant convince myself to pay for an ipad pro that is more expensive than macbook airpro those are mac prices, and while the ipad's hardware is worth it, it's a lot to pay for the limitations that you're stuck with when using ipados.",
-        "aspects": [
-            "accessories",
-            "pricing",
-            "design"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0,
-            "pricing": -1.0,
-            "design": -1.0
-        }
-    },
-    {
-        "sentence": "of course apple would charge 800 for a headless laptop thats slower than a macbook air but they wouldn't have it any other way.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.3
-        }
-    },
-    {
-        "sentence": "i mean, the new keyboard is great if you want to use it as a macbook, but to me the smart folio keyboard represented the perfect half way solution for those that use and carry the ipad mainly as a tablet, but still want to use a physical keyboard when required.",
+        "sentence": "is the pulling the trigger whats stopping me, all very good points in this thread to just go and do it.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "i bought it have compared it to my 2018 ipad pro and it's barely any lighter or thinner.",
+        "sentence": "right now, apple is offering 645 for my machine, which is basically what i'd get if i tried to sell it on ebayswappa without the hassle.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "i upgraded from an m1 12.9 ipp and got exactly what i was hoping for an allday battery ipad pro, in a lighter formfactor with a matte screen.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "where i used to just barely get through an 8 hour day using it on and off unplugged, i can get a full day of use, plus a night of entertainment use on it and still have 30 battery remaining to start the next day.",
+        "sentence": "but, if im not mistaken, 2019 intel macs are still fully supported by macos sonoma and, probably, will be by 2024 macos 15.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "its one of the best apple products ive ever owned and ive owned a lot of them going back to the early 90s.",
+        "sentence": "i'm using those transistors to run a local llm deepseekcoder33binstruct, so personally they were well used.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "to that document, i just learned that the new m4 ipad pro not only has one ambient light sensor like my m2 ipp but three!!!",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "one annoying issue i have with my m2 ipad pro, is that if i block the ambient light sensor where faceid is, the screen gets a lot dimmer.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.3
-        }
-    },
-    {
-        "sentence": "i could definitely notice a major improvement to those dramatic physical reductions.",
+        "sentence": "i'm hopeful performance will improve further, though it puts out faster than i can type already 812 tokenssecond.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "apple would like to sell a lot of these very expensive ipads pro. yesterday i went to an apple store and made a sidebyside comparison of new ipad pro 13 vs new ipad air 13.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "to me, both displays are amazing and my eyes aren't good enough to perceive the added value of oled.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "the serious work crowd are just using that line to justify their overpriced purchase.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.3
-        }
-    },
-    {
-        "sentence": "if you mix live audio, this ipad would be fantastic.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "without reading it let me guess, the higher res screen is nicer, the spec bump is faster, the speakers are slightly upgraded, but the software still sucks and is exactly the same as the 2018 ipad pro. great for people who draw? , and you'll see fewer ads.",
-        "aspects": [
-            "audio",
-            "display"
-        ],
-        "sentiment_scores": {
-            "audio": -1.0,
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "yes, looks like theres quite a few reports of this wonder if it's the stacked oled displays?",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "apart from my small sleep wake delay when tapping or pressing the button, the ipad m4 is great.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "its most noticeable at mid brightnesses on graymuted colours and looks like a photo taken with high isolots of film grain but very fine.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i compared it like for like to my m2 ipad pro and its not there on that one, even taking account of the tint differences of the two screens.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "haha no normal distances, with my eyes i cant focus on anything easily much closer than normal distance so definitely not in my face i have the nano display and even its not the slightest bit grainy.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "love the upgrade for the screen alone.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "the ipad pro 10.5 is a great ipad you can buy if you want an apple tablet that balances entertainment, productivity and a sleek 10.5inch form factor.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "to know everything that's coming, visit our the 10.5inch ipad pro in 2017 represents apple deciding to make a tablet with absolutely everything crammed in.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the best in audio performance, the cream of the company's mobile screen tech, and all the power that can be crammed inside the metal walls of a digital slate.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "like the larger onboard, its new software make it more versatile than when it first launched, although you can now upgrade it to there's only so much manufacturers can do to update a tablet these days beyond increasing the specs, as the use case for these devices hasn't altered much over the years, beyond them now being able to serve as pseudotablet replacements with the addition of a keyboard.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "we expect it to drop once we hear all about the new anyone looking to give up some prolevel features for a cheaper tablet can find it in the if you're familiar with any ipad, then the new ipad pro isn't going to be a surprise.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "even with the smart keyboard attached it's almost impossible to detect the presence of the new ipad pro when it's thrown in a bag, and on its own it's a great tablet to hold for extended periods.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it feels redundant to talk about the build quality of this tablet, because the higher premium placed on apple products does guarantee something that's made to last and feel good in the hand.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "the screen on the 10.5inch ipad pro is one of the best we've seen on a tablet, to the wider color gamut, brightness and overall sharpness.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "but there's a feeling that it's overkill, especially as it's likely the reason the cost has risen so much.",
+        "sentence": "if you can't think of anything, it's probably worth giving this hype train a miss until your computer becomes truly obsolete e.g. can't download the latest os, and so on.",
         "aspects": [
             "pricing"
         ],
@@ -546,2054 +1788,83 @@
         }
     },
     {
-        "sentence": "it's definitely an upgrade, although you feel like it's still constrained somehow, as the 12.9inch model is just so much more expansive.",
+        "sentence": "you will definitely appreciate the gigantic performance improvement.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "however, there is more screen real estate to play with, while apple has maintained sharpness levels by putting 1668 x 2224 pixels onto the display to balance out by the larger size, which is a good move.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "that's a great thing in theory, as the visual quality of some programming on the ipad will look amazing.",
+        "sentence": "right now, best buy is offering 675 for my intel mbp.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "the promotion display technology is something that's worth looking at in greater depth, as it's something apple highlighted many times during the launch and during demonstrations.",
-        "aspects": [
-            "pricing",
-            "display"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "however, we kept feeling that just flicking around the new 10.5inch ipad pro was just a generally more slick experience there's definitely an upgrade both visually and in terms of speed under the finger.",
-        "aspects": [
-            "performance"
-        ],
-        "sentiment_scores": {
-            "performance": 1.0
-        }
-    },
-    {
-        "sentence": "the truetone display is a hard one to assess it mimics the lighting conditions around you by measuring the color of what's doing the illuminating, so the screen will look different when using it by lamplight and outdoors.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "then you'll see there's a genuine and pleasant difference, especially when using the new ipad pro by lamplight.",
+        "sentence": "i had no regret for just a second.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "if you're an apple fan and just crave the best of what's on offer, then this tablet will impress without a doubt.",
+        "sentence": "it seems like apple optimized heavily for base models on launch day.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "i would mainly use it for stuff like goodnotes, word with magic keyboard, some garageband although i prefer that on a lap or desktop, and the odd and fairly simple procreate project.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i was using an air2 up until 2 weeks ago and although slow at times it still worked fine for normal everyday use.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i brought a refurnished 2015 ipad 12.9 at woot.com four months ago at low price and man, the estate of the screen really blew my mind after using ipad 9.7 and 10.2 for several years.",
+        "sentence": "is the nano texture screen worth it on macbook pro m4? .",
         "aspects": [
             "pricing",
-            "display"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "it's worth it.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "so i imagine it would be a good fit for your use case.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "the magic keyboard is a great accessory and is compatible with the latest m2 based ipad pro as well, giving you a decent upgrade path.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i noticed apples refurbished store had several discounted 12.9 ipad pro 2018 or newer so you a want to double check that the deal youre getting is as good as what you can pick up from apple.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "as for refurbished, that's absolutely what i would go for but unfortunately, it's not available directly from apple here it is extraordinarily useful in 2022.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "for your use case it's actually better that the m1, because it's lighter.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "i barely notice the speed difference with m1 in normal use sure you can see it side by side, but it's a bit like going from 1440p to 2160p 4k on a laptop screen.",
-        "aspects": [
-            "performance",
-            "display"
-        ],
-        "sentiment_scores": {
-            "performance": 0.0,
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "they are both very sharp just like m1 and a12x are still both very smooth other than in some extreme scenarios.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it doesnt mean that its ideal, but i doubt itll be absolutely horrible.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i was only worried about the ram, but in the store it was super fast snd fluid even editing photos with no difference in performance at all compared to the pro that was next to it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "all other tasks will heat up mu air 2 with good lag and extremely slow loading times.",
-        "aspects": [
-            "performance"
-        ],
-        "sentiment_scores": {
-            "performance": 0.0
-        }
-    },
-    {
-        "sentence": "on the other hand, the 2018 ipad pro is still a very good tablet.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "so it actually does pretty good as far as performance goes.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i didn't think updating to ios15 was necessary as i really prefer the layout and interface of ios14 when compared to the changes made to the ipad on ios15.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the air 2 felt slow already on ios 12 when you also had the 9.7 pro... i call this the spoil effect, a faster device spoils you and you find you older one too slow... 15 years ago nobody complained about hdds, now with ssds, hdds feel unbearably slow.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "the m1 had definitely not managed to spoil me in the slightest, the only real advantage is ram, in terms of speed the experience is very similar.",
-        "aspects": [
-            "performance"
-        ],
-        "sentiment_scores": {
-            "performance": 1.0
-        }
-    },
-    {
-        "sentence": "most typical example when it's annoying is youtube i don't use the youtube app, because safari allows me to watch youtube adfree for free.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "an ipad for the most part cannot run backgrond apps like desktops, and i don't use split screen because it's cramped, let alone stage manager, which is pretty bad at this stage.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.3
-        }
-    },
-    {
-        "sentence": "but other than that the 2018 is virtually just as smooth and is actually lighter, so more pleasant to hold.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "great screen, great speakers, fast, light, apple pencil pro is a game changer.",
-        "aspects": [
-            "audio",
-            "display"
-        ],
-        "sentiment_scores": {
-            "audio": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i dont think anyone will argue ipads have bestinclass hardware, but everyone would benefit from software improvements.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "a tablet lends itself to fullscreen applications and focus work, like writing in a book or drawing on paper.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "more options for tiling windows when not using stage manager would be nice.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "those are probably the most difficult things to improve, but would net the biggest benefit to users if they can be.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "as cockney rebel said though, the m4 ipp is a fantastic device absolutely love it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i'd take a mini 6 size too, but i absolutely agree with your take here.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "pretty disappointed it wasnt added to the m4s.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.3
-        }
-    },
-    {
-        "sentence": "with software i want native mac app support on ipados and i want them to make external display support feel like its not a beta feature.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "this is an annoying, useless artifact.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "it weighs like a brick without the magic keyboard so you can't put it in the palm of your hand and hold it onehanded and scribble with the pencil with the other hand.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "it's terrible fr watching content because the aspect ratio is not optimised for watching filmstv.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "safari on the ipad is terrible compared to chrome on desktop.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "you might think annotating with the pencil would be great on this big screen but think again.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "for annotating and taking notes, which is 1 of 2 things this device is mainly good at, you can get away with buying a much cheaper ipad.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i'd like to know how people who use and like this device get around these huge shortcomings of such an expensive device.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.0
-        }
-    },
-    {
-        "sentence": "but it certainly isnt light, especially with the mk i find the mk is fine on my lap i was surprised actually text input without a keyboard, i agree.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i agree, but i wouldnt want to change the aspect ratio as then it would be bad for normal use i annotate all the time, i really think it works well i use a matt screen protector though, else its horrible to write on.",
-        "aspects": [
-            "accessories",
-            "display"
-        ],
-        "sentiment_scores": {
-            "accessories": -0.3,
-            "display": -0.3
-        }
-    },
-    {
-        "sentence": "what's funny is the 12.9 screen is actually a perfect size in landscape mode for a properlysized keyboard, and if i make sure my hands are centered before typing, i can touchtype blindly on the screen just from the key spacing being just right if you're using the pencil, there is a button at the bottom that shows a onehanded keyboard.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i have never missed having a laptop or mac whilst using this device but thats because of how i personally use it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i like that it has 5g connectivity, especially for train trips.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "for viewing content, the ipad has always been worse than an android tablet, but for productivity, the screen on the ipad is much better, since you see more content.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -0.6
-        }
-    },
-    {
-        "sentence": "in my experience it has a serious personality disorder and identity crisis.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "a little too unwieldy to fully enjoy as a sofa tablet.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "thus works best as a pseudo laptop with magic keyboard, but then i soon realised it was half a laptop with a crippled operating system and almost no io.",
-        "aspects": [
-            "software"
-        ],
-        "sentiment_scores": {
-            "software": 0.0
-        }
-    },
-    {
-        "sentence": "i have a 21x9 monitor and i love watching films in native resolution",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i agree safari is not as good as a desktop version and that is probably one of my biggest gripes about the ipad as for on screen keyboard when using input fields i just tested this with the chatgpt app and it pops up every time i select the field with pen in hand",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.3
-        }
-    },
-    {
-        "sentence": "i take it everywhere to keep all that access whilst still having the ability to use generally excellent iosipados apps to run my photography business.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "its better than a laptop for many things its a lot nicer and much more professional to hand my clients a sample gallery with an ipad than to shove a macbook in their face.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "in the situations where its not good enough to do a task, i use either a selfhosted docker application via a browser or i remote in to my other machines.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -0.3
-        }
-    },
-    {
-        "sentence": "how depressing it is to find out my most used and most loved apple product, my 12.9 m2 pro, is so disappointing!",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "it becomes quite easy to hold in my opinion.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "overpriced for that stuff?",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.3
-        }
-    },
-    {
-        "sentence": "why post x is no good for me and then assume that makes it no good for ?",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "sounds like someone was duped into thinking that ipad was a replacement for a mac.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "safari on ipad isnt like chrome on desktop and this salad doesnt taste as good as this soup.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "my 12.9 ipad pro is probably my most used device after my iphone and my work desktop.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "im not gonna deny it should probably be a bit cheaper for the hardware in it but for the use ive had out of mine is given me excellent value.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "the design of the new ipad pro is probably the best overall feature, and the drop in weight and thickness makes a difference whether you're traveling or just using the ipad around the house.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "at 5.1mm, the 13inch ipad pro is apple's thinnest device to date, and a tablet of this size and thickness continues to be impressive.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "it's much more natural than treating the ipad like a giant iphone.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it is by far the best display that apple has introduced in an ipad, and you won't find a better tablet display available from competing products, either.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "movies look amazing, the ipad does well in bright lighting, and the hdr makes images pop.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "compared to the priorgeneration ipad pro with miniled display, the oled display is better, but not so much so that it's worth upgrading for that alone.",
-        "aspects": [
-            "pricing",
-            "display"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "apple nixed both the ultra wide camera and mmwave 5g in this version of the ipad pro, and most people probably won't miss these features.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "so you don't need to go hunting for settings to do things like change line thickness or color, and there's a barrel roll feature that basically does things like vary line thickness when tilting the apple pencil so it behaves more like a real writing or drawing tool.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 0.0
-        }
-    },
-    {
-        "sentence": "the magic keyboard is way more mac like to that larger glass trackpad and the aluminum palm rest.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the trackpad is more pleasant to use than before, and the function keys are also a big plus for controlling media, changing screen brightness, and more without having to dig into the settings app or control center.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "unsurprisingly, the ipad pro is without a doubt apple's best ipad, and it's probably the best tablet on the market.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "those are mac prices, and while the ipad's hardware is worth it, it's a lot to pay for the limitations that you're stuck with when using ipados.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.0
-        }
-    },
-    {
-        "sentence": "but i really don't think it's fullblown macos that people are wanting on their ipad so much as it is wanting more maclike app experiences and openness of the operating system.",
-        "aspects": [
-            "software"
-        ],
-        "sentiment_scores": {
-            "software": 0.0
-        }
-    },
-    {
-        "sentence": "or if it is true macos that people are itching for, it seems to me that in their minds it wouldn't completely supplant ipados but rather only be available as an option when the ipad detects that appropriate accessories are connected like an external display, mouse andor keyboard, which probably would be the optimal approach for getting the best of both worlds.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "even if im a heavy mac user, im used to the phone paradigm, where interaction is much more direct, and i find it much easier and enjoyable for everyday and creative tasks.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "using an ipad is much more natural than a traditional pc to me.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "there are many compromises made to end up with a bad experience, awkwardly switching between os that look completely different on the same device, which is not designed for macos in terms of battery, size, thermals, trackpad size, etc. its an idea that sounds good in theory but wouldnt work in practice.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.3
-        }
-    },
-    {
-        "sentence": "the display is excellent and they're good for a lot of things, i just can't get past that eye watering price.",
-        "aspects": [
-            "pricing",
-            "display"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "it's just the interface that's different, and i certainly don't want them messing with the mac interface for the sake of the ipad.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "we have great examples of how people really use the windows tablets.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "so a giant phone will be better than a traditional computer, regardless of the price.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "handwriting response is good enough that i might actually be able to use it to take notes in real time, ideally in cursive haven't been able to do that with any prior ipads.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "but i really do think that for a device with tech this advanced and a price this stratospheric, apple really does need to provide us with real windows management and a really intuitive file systemnot stage manager and the files app, both of which feel like cobbledtogether messes.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.0
-        }
-    },
-    {
-        "sentence": "both arent great if their goal is to sell both.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "if they add a macos like mode that prevents a macbook air sale they got macbook pro revenue anyway they cant let the surface products continue to offer a contrast.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "the root error of the analysis is thinking that ipados is objectively worse than macos, and apple is selling a worse product at a higher price.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.6
-        }
-    },
-    {
-        "sentence": "windows wasnt a good tablet or mobile os.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i do feel this is enough of an upgrade that after 4 great years, i'm ready to upgrade my old 2020 ipad pro 12.9 to this new 13 version.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "sure, the one i have now still works flawlessly and does what i need it to do and i'll never even tap into a quarter of the power that one has but this new one does look great and now that it's even thinner and lighter and probably have even better speakers and all the other stuff, it's worth the steep price.",
-        "aspects": [
-            "audio",
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "audio": 1.0,
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "it's the best ipad i've ever owned pound for pound",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i have the regular smart folio and i prefer to remove it from the case anytime im using the ipad on the couch or in bed.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "i bought it have compared it to my 2018 ipad pro and it's barely any lighter or thinner.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "my m1 is amazing for all my needs!",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the fact that they just launched final cut for ipad pro means that macos apps will not be available for ipad this year, no matter how much we wished but for the price difference, you can literally buy 10 or more pencils everywhere around your house and it is still cheaper and then someone tries to run an llm with ollama or someone else loads a monster scene into blender and then their ipad turns to toast, the screen damages from the heat, the device becomes too hot to hold.",
-        "aspects": [
-            "pricing",
-            "display"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.0,
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "the new pros are fantastic ipads.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "with the magic keyboard i cant use the pencil pro very good to write or draw, i would have to use it blank and am scared it gets scratched on raw surfaces.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "now im thinking about using the magic keyboard and keeping the folio case with me, in case i want to writedraw for longer, or if i should just use the magic keyboard at home or whatever else i could do.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -0.3
-        }
-    },
-    {
-        "sentence": "this is great because dirt and debris trapped inside will scratch the ipad causing a unique look.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it's amazing that otterbox being the only thirdparty company to sell on apple.com on day 1, doesn't take advantage of this in any way.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "other than the smart cover hinge on the bottom, it looks like a cheapo amazon case id buy until the good ones come to market.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "id permanently glue that pencil drawer shut, probably cut that flap off or glue it down if it doesnt hold, and bingo a cheapo case!",
-        "aspects": [
-            "accessories",
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0,
-            "pricing": 0.0
-        }
-    },
-    {
-        "sentence": "hopefully it will be better or at least good enough to tide me over until something better gets released.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "no way id just throw this in a bag like this.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "using it on my lap as we speak and it stays much better than my twogensprior apple folio.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "anyone afraid that the edges of the ipad will not be protected if using the ipad folio?",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "adding a dbrand skin to the folio may be best of both worlds provided it offers side, top, and bottom stickers.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "this new ipad is so light and thin.. schleping it everywhere necessitates the need for good protection.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "not so good. apple used to make good ipad cases.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0
-        }
-    },
-    {
-        "sentence": "i wanted something other than black so am looking at the zugu case which comes in various colors and has good reviews.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "i actually like the statement case because i want the kickstand, but my volume buttons are basically impossible to press and its a hard deal breaker, especially on a 90 case.",
-        "aspects": [
-            "audio",
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "audio": 0.0,
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "i just want a case with a surface like kickstand and purchased both this and the logitech combo touch and dont love either.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0
-        }
-    },
-    {
-        "sentence": "all these other bulky cases and folios such are definitely not the answer.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0
-        }
-    },
-    {
-        "sentence": "i am also in search for a case with a similar kickstand, for now the esr shift case works for me. feels and looks great.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "it seems very well made and looks like it will give great protection, but i definitely notice the weight.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "also, the case itself scuffs like crazy.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0
-        }
-    },
-    {
-        "sentence": "it's best to keep that in mind when considering this case.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "i like the little drawer for the pencil.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "its not fabric but somehow feels like softer texture than the rest of the case.",
-        "aspects": [
-            "accessories",
-            "design"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0,
-            "design": 0.0
-        }
-    },
-    {
-        "sentence": "thats definitely something to complain about for some of you.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "no wobbles! tested the case in bed and unsurprisingly it worked perfectly.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "raising the ipad those few inches gives a better viewing angle on a desk, counter etc.. the best part is it's still sturdy to the point that i'm comfortable using it this way in bed.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "but it would be great if these edges were rounded off.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "additionally this is hands down better than my old zugu case which surprised me.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "for watching, don't forget to like, sub...",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i like it for the air for all the reasons you like it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i especially like that theres the separate cover for the back so the ipad is protected when you take it out of the case",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "and i like the way the case folds to the back and is so adjustable.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "raising the ipad those few inches gives a better viewing angle on a desk, counter etc.. the best part is it's still sturdy to the point that i'm comfortable using it this way in bed.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "whilst it is sturdy in that it won't fall over, it is quite wobbly when touched, so not so good for interactive use.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i have several esr products, their phone, apple watch, and airpods combo charger is about the best of the breed.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "had zugu had a case available i would have immediately ordered it as ive had almost every one of their previous cases and consider them the best of the best.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "the esr just doesnt feel that good in hand.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "thats a good point about the sharpish edges.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i would also like the main case to have rounded edges so its more comfortable to hold.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "quality is great and sure it can be a bit heavy carrying it around but having the option to detach the case eliminates that problem right away.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.7
-        }
-    },
-    {
-        "sentence": "i wouldnt want a heavier more complicated version that just duplicates what esr has done.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "it's a great, well built case.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "now, i'm going from a 11 m1 pro to the air 13, but even when you don't have the tablet in the case, the case is probably the heaviest i've ever seen without a keyboard.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "zugu cases do not feature detachable elements which contributes to how light they are compared to the others.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "but the one i have is quite light, i dont know a specific weight but compared to any other case that is also a stand it is very light.",
-        "aspects": [
-            "accessories",
-            "design"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0,
-            "design": 0.0
-        }
-    },
-    {
-        "sentence": "had it been significantly lighter, and more comfortable when carrying it in your hand, it has very sharp edges, i would have kept it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i like everything but the weight, so i leaning toward keeping it, but we will see how after a couple weeks.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "it will also allow portrait mode on the case, which i prefer for magazines and books.",
-        "aspects": [
-            "accessories",
-            "camera"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0,
-            "camera": 1.0
-        }
-    },
-    {
-        "sentence": "i like the feature that raises it up, too.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it isnt like i am holding in hand when in use would pull from the standing case for that, but it is something i would feel in a backpack.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "the zugu case wont be shipped until the end of july probably wouldnt receive it until august, so thats a long time to wait for a case.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0
-        }
-    },
-    {
-        "sentence": "the zugu case wont be shipped until the end of july probably wouldnt receive it until august, so thats a long time to wait for a case.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0
-        }
-    },
-    {
-        "sentence": "but thats really just a quibble as, if youre regularly using it, youll forget about the weight.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 0.0
-        }
-    },
-    {
-        "sentence": "im not knocking esr as i use several of their other products which are outstanding but this one just didnt quite win me over.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "but i would not often take the combo out and about with me, i would put the ipp in another, zugu, case or, if the esr hadnt felt like carrying a dumbbell, it would have been that one.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "i would definitely appreciate something lighter, but i need a case before august, so i suspect i will stick with it despite that issue.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.7
-        }
-    },
-    {
-        "sentence": "using it naked is not my thing.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i dont like how it feels in hand, i don't like the lack of protection, and i don't want to have to shuffle it in and out of another case.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.3
-        }
-    },
-    {
-        "sentence": ", apart from zugu, thats the best available without a keyboard even if heavy.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i weighed this with the case and ipad and it comes to 1336g used a small kitchen scale, so probably not the exact number.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "the upside is that the build keeps it steadier on uneven surfaces, like my lap.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the rebound hybrid is still rather chunky compared to the apple smart folio, but the case provides full body protection which makes it a good option for use outside of the home.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "screen on the m4 is fab and it's definitely zippier but i'm undecided whether it's a keeper or not yet.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "upgrading because i've enjoyed using my 12.9 over the years and got a tonne of use out of it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i've been a bit frustrated with the export time when video editing and the time it takes to upload those videos to the cloud on my 12.9, hence wanting to upgrade for those of who who've upgraded and had the new m4 for a while what do you think?",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "do you find now that it' lighter, it easier to carry around and you do that more?",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "asking because it feels lighter and more portable than the 2018 ipp.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i really enjoy the m4 13 because of the great display and i do think i use it more because it is lighter thinner real easy to take it off the mkb and use around the house in my hands.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "as for downsizing, i like the larger display and will never go back to the smaller ipad other than the mini 6 i have for out and about.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i upgraded from an 11 2018 ipad pro to the 11 m4 model.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i still largely use it for the same stuff, just everything seems to load and run a little faster and smoother.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "there are some features i liked that i couldn't get previously, like the ability to instantly scan a photo or screenshot for text on the spot previously, i had to save it to my photo roll first.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "at the end of the day, i probably could have stuck with my previous 2018 ipad, but given its irregular upgrade schedule, this seemed like a good time to get a new device which can support the next couple of years of software updates i am not expecting the a12x ipad pro to get ios 19.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i do love the big screen, and especially now that its oled great feedback, and valid points i agree and really those noticeable improvements.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i read elsewhere on this forum that somebody said, previous ipad wasnt slow and was responsive but when they upgraded they realised how much more responsive and what a great experience using the m4 was.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "so whether it's worth it or not is entirely subjective and depends on how much spare money you have.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 0.0
-        }
-    },
-    {
-        "sentence": "in any case, it's a very good model year to upgrade.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "it doesn't feel much lighter the ipads with the mini led screens were heavier than the 2018 ipp.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "hopefully the ipad air eventually gets promotion and i can buy that, because otherwise i won't be buying another ipad if the oleds have awful pwm flicker.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the 2018 was lighter than the m1 but the m4 is even lighter.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the nice surprises i got with the m4 the weight reduction was expected were the speakers, fuller and louder than the 2018 at max volume, and as good as the m1, despite the much thinner body, and the 80 charge threashold i leave the m4 always plugged in and this way it's always charge",
-        "aspects": [
-            "audio",
-            "design"
-        ],
-        "sentiment_scores": {
-            "audio": 1.0,
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "i ended up keeping the m4 13inch and agree with you love that its lighter and feels more mobile and im happy to take it out of the folio and use naked on the couch and around the house, or rest on my lap when on the couch.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "speakers are great and the screen is amazing!",
-        "aspects": [
-            "audio",
-            "display"
-        ],
-        "sentiment_scores": {
-            "audio": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "its smoother, more buttery and acts more like my iphone 15 pro max in terms of this.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i didnt realise about the volume buttons until you said it thought it was just me my 2018 wasnt bad, but the last couple of updates especially ios 18 started to slow down the device.",
-        "aspects": [
-            "audio"
-        ],
-        "sentiment_scores": {
-            "audio": -0.3
-        }
-    },
-    {
-        "sentence": "i have the 2020 ipp and ended up buying the m4 ipp because apple does a damn good job at marketting and hype.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "while the upgrades and the nano textured screen were awesome, the display, speakers, lightweight and new magic keyboard, i realistically did not get a different experience than my 2020 ipp.",
-        "aspects": [
-            "audio",
             "display",
             "design"
         ],
         "sentiment_scores": {
-            "audio": 1.0,
-            "display": 1.0,
-            "design": 1.0
+            "pricing": 0.0,
+            "display": 0.0,
+            "design": 0.0
         }
     },
     {
-        "sentence": "however for a deal like you got, it may be worth it.",
+        "sentence": "i had a macbook m1 pro that i used almost exclusively indoors and for me having good colors is very important because i want to use it for entertainment too movies, videos, some games etc and ive heard that you sacrifice a bit of color quality on the nano texture display, and that the screen looks grainy when displaying white and other colors.",
         "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i personally would love the m4 ipp to be my main device, but it really has to be able to do more than a macbook air for its cost.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "the build in apps like photos and contacts does have more features than the ipados version.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "if youre happy with the new device and not looking back at the cost, then definitely worth it.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i will definitely be getting a new ipad in the future, but at a more reasonable price when available.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "pending whatever happens with the rumored 12.9inch ipad air, i may very well buy a refurbished fifth generation m12021 model.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 0.7
-        }
-    },
-    {
-        "sentence": "i imagine most people dont have that patience andor really dont like sacrificing 12 of the screen real estate to typing, so an external keyboard is a necessity for them.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "but everyone is so focused on the very expensive and very heavy magic keyboard that they overlook the lighter, slimmer smart keyboard folio.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.0
-        }
-    },
-    {
-        "sentence": "it retains the tablet aesthetic while being significantly cheaper.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i never needed a keyboard, but i have a magic keyboard because it serves like a dock, the the mk's side charge port.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "magic keyboard is a good keyboard, but it's the docking part that really sells it for me.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "while its not a necessity it has its uses magic keyboard is detachable from the ipad pro 12.9 , has a built in usbc connection provides reasonably good protection for your ipad pro depends what you're doing with it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "however, i like writing on software keyboards",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "at that point you may as well use a small portable bt keyboard, the logitech k something or other is great.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "magic keyboard is very good as other posters have mentioned but its very pricy.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "bought the keyboard, used it for a while, loved it, and after 3 months just didnt use it anymore.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "im a weirdo that prefers to type on glass.. less bulk",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i like this case for the steeper angle typing position compared to the rather flat apple smart folio, which should help with the reflections.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "but i much prefer typing on it and viewing the screen when its mounted on one.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i do not like the 12.9 ipad as a regular tablet.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i also use a magnetic ipad stand like , which gives more height and is more flexible than the magic keyboard as a stand.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i have the combo touch and the apple magic bluetooth keyboard and its far more versatile, lighter and still cheaper than what the mkb would have costed me.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i said that detachingattaching the mkb does not cause wear, nothing about its durability in use though after 15 months on my 12.9, mine still looks great.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "but it is overpriced.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.3
-        }
-    },
-    {
-        "sentence": "i like the magic keyboard, but what also works really well is the keyboard of my m1 imac when i work with universal control on.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the imac is a great pairing for the ipad pro in terms of proefessional office work.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "but i occasionally read on it, which is in portrait mode preferably.",
-        "aspects": [
-            "camera"
-        ],
-        "sentiment_scores": {
-            "camera": 0.0
-        }
-    },
-    {
-        "sentence": "now how is ipados awful?",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "in its current form, macos simply isnt designed for a tablet form factor so the switch between tablet mode and laptop mode would be a very poor ux basically 2 different oss.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": -1.0
-        }
-    },
-    {
-        "sentence": "imo the more pro feature set should rather come from an expansion of ipad os which would be closing the feature gaps with macos while taking into consideration the hybrid laptoptablet experience which apple is trying to sell and allow for seamless switching between the two modes.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "in its current form, macos simply isnt designed for a tablet form factor so the switch between tablet mode and laptop mode would be a very poor ux basically 2 different oss.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": -1.0
-        }
-    },
-    {
-        "sentence": "imo the more pro feature set should rather come from an expansion of ipad os which would be closing the gaps with macos while taking into consideration the hybrid laptoptablet experience which apple is trying to sell and allowimy for seamless switching between the two.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "those things seem to be terrible at least on windows side of things.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "now how is ipados awful?",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "for casual use like browsing the internet on the sofa and watching things, the ipad is the perfect device.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "even with a mouse the pointer on ipad is also horrible and keyboard, i find using pages on ipad subpar versus a mac, even though the screen size can be the same.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "as you say, the windows attempts were terrible.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "for good reason, but apple could do it better.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "two separate devices but both excellent for their use cases.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "i need a laptop, too it has absolutely class leading specs with the m4, oled screen etc, but just massively held back by ipad os.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "travelers could invest in the ipad pro and all its accessoriesat a price comparable to a macbook air, by the wayand know that theyre getting the best of apples tablet experience and its traditional computer experience.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "the soft pleather exterior feels good in the hand and provides a secure grip, unlike some slippery plastic alternatives.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "underneath the exterior is a robust combination of tpu and polycarbonate, offering what feels like very decent drop protection.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i haven't had a mishap yet, but it certainly instills confidence.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "its versatile stand options, secure magnetic mounting, and thoughtful design features like air vents and apple pencil integration set it apart from many competitors.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "after using it for years i can finally say one of the most worse uncomfortable cases i used , after going back to more basic light weight like the andar leather case i can use my ipad a lot better and its actually comfortable to write on even with your hand and arm laying flat on the screen unlike this case where it has a ridge that just annoys when writing on looks like you are showing the case magnetically sticking to the stainless steel refrigerator door.",
-        "aspects": [
-            "accessories",
             "display",
             "design"
         ],
         "sentiment_scores": {
-            "accessories": -1.3,
+            "display": 0.0,
+            "design": 0.0
+        }
+    },
+    {
+        "sentence": "i dont have any apple stores nearby to check in person, so i want to ask if the nano texture option is worth it for someone like me who is mostly indoors and color quality and brightness is a priority, the price increase is not a problem, but a grainy screen that looks weird indoors would be.",
+        "aspects": [
+            "pricing",
+            "display",
+            "design"
+        ],
+        "sentiment_scores": {
+            "pricing": -1.3,
             "display": -1.3,
             "design": -1.3
         }
     },
     {
-        "sentence": "i'm sure many children would like to know because their mommies can't stick the child's precious art project on their modern stainless steel refrigerator the magnetic doesn't work on that surface.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "it never spontaneously collapses like with other cases.",
+        "sentence": "even using my laptop outdoors the brightness is bright enough it's perfectly fine without nano texture.",
         "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "work great on airplane seat tray, or uneven surfaces like in bed, wherever.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i dont think i want a magnet case like this.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0
-        }
-    },
-    {
-        "sentence": "as for whirlpool refrigerators they do stick i have this case for my ipad pro for first time and it is defo best case ever for me.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "i love this case more than i can say.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "don't care about the suppose extra weight and really love the magnets all of those feature are really great for me in my wheelchair.",
-        "aspects": [
+            "display",
             "design"
         ],
         "sentiment_scores": {
+            "display": 1.0,
             "design": 1.0
         }
     },
     {
-        "sentence": "great! zugu is amazing. love it. highly recommend.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i purchased the zugu in 2023, i had a lot of bad and expensive experiences with around 68 different covers, also with the original apple cover.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.3
-        }
-    },
-    {
-        "sentence": "the zugu cover is by far the best protection and by far the very best ergonomic one!",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it is the very first cover i really love and the only negative point of zugu is.. that they dont produce cover for iphones as well they used to make iphone cases.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "my personal opinion is that it is a great case, but has one major flaw.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "but now i cant find any iphone or other smartphone case on their website... since about 6 years i use spcases for my iphone but their latest spmodels get less sturdy and instead thinner... and much more expensive.",
-        "aspects": [
-            "accessories",
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0,
-            "pricing": -1.0
-        }
-    },
-    {
-        "sentence": "since i know now the wonderful zugu case for the ipad id like to have a zugucase for my iphone as well...",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "the refrigerator option is only a spin off of the excellent option to fix the angle in 12 different angles !",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "the oled screen really is freaking amazing",
+        "sentence": "i remember when monitors went glossy it was just an amazing pop of contrast and clarity i would order all my computers with glossy screens.",
         "aspects": [
             "display"
         ],
@@ -2602,164 +1873,14 @@
         }
     },
     {
-        "sentence": "m4 because oled, face id, quad speakers although sound isnt as good as on previous models, and landscape camera.",
-        "aspects": [
-            "audio"
-        ],
-        "sentiment_scores": {
-            "audio": -1.0
-        }
-    },
-    {
-        "sentence": "have the 2018 12.9 too currently, this is definitely lighter and the bmk is really good, makes a big difference.",
+        "sentence": "my wife and i just bought a house a few months back, and one of the things we loved about it was how much natural light we get in the living room and common areas.",
         "aspects": [],
         "sentiment_scores": {
             "general": 1.0
         }
     },
     {
-        "sentence": "also, while i was impressed with the clarity of nanotexture, i didnt like the reduction in dark blacks less contrast.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": -1.0
-        }
-    },
-    {
-        "sentence": "i didnt like the look of mix and match colours of ipad keyboard.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "stuck with 13 cause when i had both sizes for a year, i found myself using the 13 over the 9.7 ipad way more often and fell in love with a big screen i use the ipad with the keyboard or in a case with stand for on my lap mostly i prefer kindles for reading books in my hand, and prefer my phone for browsing the internet casually, holding that in my hands.",
-        "aspects": [
-            "accessories",
-            "display"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "pro looks nice and i will definitely check it out soon when i go to buy a couple of accessories, but i don't use my ipad a tonmy mac is my heavy lifter.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "so i just don't feel the extra 400 is worth it to me.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": -1.0
-        }
-    },
-    {
-        "sentence": "the screen looks great to me, scrolling does not but i don't really care too much about that.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "it isn't mentioned a lot, but the landscape speaker orientation, new to the 2024 airs, seems like a pretty big improvement giving you a decent stereo image when watching tv, etc.",
-        "aspects": [
-            "audio"
-        ],
-        "sentiment_scores": {
-            "audio": 1.0
-        }
-    },
-    {
-        "sentence": "so when i need a bigger screen, i'm good",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "this is my travel device as i dont like to travel with my laptop.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i ended up selling both my ipads to family friends and was able to recoup a good part of the cost for the new one.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i wanted a new, bigger screen ipad just sold my 11 gen 3 ipp and as the new m4 is thinner and lighter too it was the obvious choice as i definitely also wanted a better screen and face i.d. along with the pro motion.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i don't like to use public wifi and am more comfortable having cellular on the ipad.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.3
-        }
-    },
-    {
-        "sentence": "i got it for a bit cheaper since amazon had a small discount on it.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i wanted an entrylevel ipad to do basic stuff, i.e. browsing, watching videos, etc. cant justify spending near 1000 for an ipad pro, as much as id love the display, especially due to the limitations of ipados.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "i ultimately decided to go pro because of the better specs and face id which i never thought id miss, but i definitely did.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "tb i need the space for video and photo editing and this new m4 really feels much snappier and faster.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i upgraded because the oled is very nice.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "still await on a 14 inch or bigger for me bought the wife a m2 air coming from a 2018 12.9 ipp while that device was still holding up well, the screen was really lacking compared to my m3 mbp xdr combo.",
+        "sentence": "on the flip side, i've been noticing all the glare while using my mba.",
         "aspects": [
             "display"
         ],
@@ -2768,7 +1889,7 @@
         }
     },
     {
-        "sentence": "the 1000 nits for sdr is absolutely incredible, viewing the new screen at night is laughable, to the point where i know already that when oled mbpsdesktop monitors come out i'm going to be very, very tempted...",
+        "sentence": "it's pretty impressive, doing a great job of cutting down the glare without muting the color so i'm hoping the new airs next year will have a matte option i'm not holding my breath.",
         "aspects": [
             "display"
         ],
@@ -2777,430 +1898,29 @@
         }
     },
     {
-        "sentence": "but if you really look the nano is equally good.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "sure, the mini is much more portable, thats what i like about it.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "what i do clearly know, is that i am absolutely not going to have two ipads.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i am an artist who loves still use my 2018 11 ipad pro as my main content creation media consumption device.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i even tried using a third party keyboard case for it",
+        "sentence": "so it would have been nice to pack as many things in there as possible so in case anything happens applecare was worth it.",
         "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "i love my mini for the portability and convenience, but i personally don't see it as a device that i could ever be productive on.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "i used to the laptop with me the using an ipad on work sites is a dream.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i deal with a lot of spreadsheets, long documents, forms and using a mini is no fun for those tasks.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "well, a possibility is to get a used mini in the future, as long as i find a good deal of a well cared and fairly priced one.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "thing is i use the ipad everyday, and i love its pro motion, its ludicrous speed, and the games i can play in it, resident evil village helped make me decide to keep it!",
-        "aspects": [
-            "performance"
-        ],
-        "sentiment_scores": {
-            "performance": 1.0
-        }
-    },
-    {
-        "sentence": "only thing i dont like is typing on the in screen keyboard all the time, so instead ive decided to invest in an apple keyboard case for it instead",
-        "aspects": [
-            "accessories",
-            "display"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0,
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "plus my eyes are not the best these days so a bigger screen certainly helps.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "and having an iphone 13 pro, if i go back to my iphone xr i really notice the slower screens.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "and ill end up with less, like a slower chip and screen.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "i've found that i stopped reaching for the ipad pro most of the time like i did my 10.5 ipad pro due to the size.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "it will be compromised in some aspects, but overall might get me back to my ipad usage that i had with my 10.5. , like, while all the devices, all sizes have their tradeoffs, in my case the 11 ipad pro is the best compromise between features and portability.",
-        "aspects": [
-            "accessories",
-            "design"
-        ],
-        "sentiment_scores": {
-            "accessories": 1.0,
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "still, this holidays with the extended return window is a good time to give the ipad mini a try.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i wonder if it does something if i plug it to a monitor, like mirroring the screen or something.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 0.0
-        }
-    },
-    {
-        "sentence": "the screen also isn't anywhere near as good as the m1 12.9 ipad pro.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": -1.0
-        }
-    },
-    {
-        "sentence": "but i am really not using the videophoto editing and aspects any more.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i really like it, it works well....",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "and i could also use my apple pencil 2 for notes at work in a lighter form factor.",
-        "aspects": [
-            "design"
-        ],
-        "sentiment_scores": {
-            "design": 1.0
-        }
-    },
-    {
-        "sentence": "at home i don't really love using the iphone on the couch.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "for what it's worth, the ipad mini works well for me like 70 of the time.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 1.0
-        }
-    },
-    {
-        "sentence": "i'd like to get an ipad mini for regular browsing and reading, taking it to work for spreadsheet editing and word processing.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i like using the 12.9 ipad pro since it is a different experience than what i already have on my desktop.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i also really like the ability to remove the keyboard which i can't do on the air.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "but they were heavy, overheated, had poor battery life and touchscreen use pretty much required a stylus 90 of the time.",
-        "aspects": [
-            "accessories",
-            "mouse",
-            "battery"
-        ],
-        "sentiment_scores": {
-            "accessories": -1.0,
-            "mouse": -1.0,
-            "battery": -1.0
-        }
-    },
-    {
-        "sentence": "heavily limited by ipados and increasingly frustrating oneappatanygiventime philosophy stage manager doesnt help much is just not a fun device to use.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "if not because of apples arbitrary limitations on ios app support which doesnt really exist anymore, id say using mba would be a much more fun experience than the most.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "still, i use my ipad pro 11 instead of 12.9 for obvious reasons way more than macbook, simply because it is the best media consumption device among all apple devices.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "browsing is more enjoyable than on iphone, and can sometimes get real work done, which iphone often cannot basically anything that is not video editing or similar.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "its a weird hybrid, but id argue a good enough one.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "my m1 mac mini nice that i do not need to put in the cabin luggage like laptops my mac mini is main main computingwork device with a tv used as monitor works great, especially in this very hot environment, does not overheat and stays silent.. and stays on all day, while my thinkpad is on only when needed, my ipad pro is my video watching device around the house and a second monitor for work for both the mac and the pc and my thinkpad is my work device around the house and on the go.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "a laptop is best used at a desk.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i do have a mbpexternal screen work and imac home my 12 macbook runs circles around any ipad with the exception of apple pencil based applications and for that i have an ipad mini. because i prefer a desktop 24 imac over laptops and the ipad pro is a great device for use on the couch, in bed, traveling.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "for my use cases it's a superior device for content consumption and its a good companion device for work you also get better hardware for the price in my view mini led display, better speakers, brighter screen, promotion.",
-        "aspects": [
-            "audio",
-            "accessories",
             "pricing",
-            "display"
+            "accessories"
         ],
         "sentiment_scores": {
-            "audio": 1.0,
-            "accessories": 1.0,
             "pricing": 1.0,
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "my use case is such that an ipp and to be honest, probably a base ipad is all i need.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
-            "accessories": 0.0
-        }
-    },
-    {
-        "sentence": "i like that its portable, always on, and i can throw it in my big purse when im traveling.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "yes at this point with the 12.9, i could likely do the same with a laptop, but im used to my touch screen, and like that i can play my few favorite games on here, along with doing any actual work i need to do.",
-        "aspects": [
-            "display"
-        ],
-        "sentiment_scores": {
-            "display": 1.0
-        }
-    },
-    {
-        "sentence": "we live in a rural area where wifi is really awful, and even though our cellular isnt much better, i can still use my ipad when wifi is out, not to mention when traveling.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": -1.0
-        }
-    },
-    {
-        "sentence": "i love the pencil for notetaking and sketching, but am not an artist, which is the only reason left i'd have for owning a 12.9 ipad pro.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "it has a really great mixture of use cases and my setup would feel less complete without it for sure.",
-        "aspects": [
-            "accessories"
-        ],
-        "sentiment_scores": {
             "accessories": 1.0
         }
     },
     {
-        "sentence": "i don't care about using the pencil with a mac, but i would love if the macbooks had cellular built in.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "that's probably the feature i want the most in my next macbook.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "even just to have it there in case i need it but not activated would be good peace of mind.",
+        "sentence": "now i dont really think i will add nanotexture, its really not something that i need and it comes with drawbacks on brightness and color that im sure i will notice, also apparently requires a special polishing cloth to clean, so doesnt seem worth it in my case. , and you'll see fewer ads.",
         "aspects": [
-            "accessories"
+            "pricing",
+            "accessories",
+            "display",
+            "design"
         ],
         "sentiment_scores": {
-            "accessories": 1.0
-        }
-    },
-    {
-        "sentence": "what about the ipad pro makes you like it more?",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "only thing i can see happening here is that the m3 in these ipad pros may be a revision of the same chip but being fabricated with a cheaper manufacturing process they may be using n3e instead of n3b it would make sense from a high end ipad perspective but m3 is barely 12 year old.",
-        "aspects": [
-            "pricing"
-        ],
-        "sentiment_scores": {
-            "pricing": 0.0
-        }
-    },
-    {
-        "sentence": "i'm happy actually, the m4s could have been manufactured since january, as tsmc is rumored to be using the n3e node since late december.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "i know it wont happen, but damn i would love that.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "that will benefit from a more powerful cpu, gpu and memory.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "both before and after apple transitioned macs over to apple silicon with m1, apple has consistently been leading every new applemade soc generation with its bestselling and by far most important computerdevice, iphone.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
-        }
-    },
-    {
-        "sentence": "iphone 16 will be the first apple product make the jump to the next generation of soc which is named a18 for iphone and some ipads, and m4 for mac and some ipads, probably.",
-        "aspects": [],
-        "sentiment_scores": {
-            "general": 1.0
+            "pricing": -1.0,
+            "accessories": -1.0,
+            "display": -1.0,
+            "design": -1.0
         }
     }
 ]
